@@ -1,0 +1,85 @@
+.home-bg {
+
+
+
+    border-top: solid 17px #4e4d4cde;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/visual.png?alt=media&token=db889bac-8d00-41a5-9612-b26745c09099");
+    height: 400px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+
+    border-bottom: solid 17px #4e4d4cde;
+}
+
+.grid-container-series {
+    width: 90%;
+    display: grid;
+    padding: 5%;
+    background-color: #3c3c3c;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px;
+}
+
+
+.grid-container-movies {
+    width: 90%;
+    display: grid;
+    padding: 5%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+
+.grid-container-seasons {
+    width: 90%;
+    display: grid;
+    padding: 5%;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 10px;
+}
+
+.card-image-poster {
+    position: relative;
+    cursor: pointer;
+    width: 100%;
+}
+
+.card-image-poster img {
+    width: 100%;
+}
+
+.card-image-poster:hover {
+    transition: border 300ms ease-out 0s;
+    transform: scale(1.05);
+}
+
+
+.card-image-movie {
+    border-radius: 20px;
+    position: relative;
+    cursor: pointer;
+    width: 100%;
+}
+
+.card-image-movie img {
+    border-radius: 20px;
+
+    width: 100%;
+}
+
+.card-image-movie:hover {
+    border-radius: 20px;
+
+    transition: border 300ms ease-out 0s;
+    transform: scale(1.05);
+}
+
+.input-login{
+    width: 100%;
+    padding: 10px;
+    font-size: 30px;
+}

@@ -1,0 +1,77 @@
+.plyr--video {
+    height: 100% !important;
+    width: 65% !important;
+}
+
+.inazuma-player{
+    align-items: center;
+    display: flex;
+    background-color: black;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+:root {
+    --plyr-color-main: #F4D03F;
+}
+
+
+
+.info-anime {
+    margin-left: 10%;
+    width: 60%;
+    padding: 5%;
+}
+
+.next-episode{
+    width: 40%;
+}
+
+.next-episode p{
+    color: #3a3a3a;
+    font-family: Roboto,sans-serif;
+    font-weight: 900;
+}
+.next-episode img{
+    width: 70%;
+    user-select: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+.plyr__video-wrapper{
+
+}
+.next-episode img:hover{
+    width: 70%;
+    transform: scale(1.1);
+    border-radius: 20px;
+    opacity: 1;
+    cursor: pointer;
+}
+
+
+.serie-name p {
+    color: #f47521;
+    font-family: Roboto,sans-serif;
+    font-weight: 900;
+}
+
+.cap-name h1{
+    color: #3a3a3a;
+    font-family: Roboto,sans-serif;
+    font-weight: 900;
+}
+
+.description p {
+    color: #3a3a3a;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+}
+
+.information-section{
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
