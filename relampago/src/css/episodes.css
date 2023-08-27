@@ -45,6 +45,12 @@
 }
 
 
+
+.card-episode p{
+    color: #2d2d2d;
+    font-family: Roboto,sans-serif;
+    font-weight: bold;
+}
 .hover-episode p{
     color: #2d2d2d;
     font-family: Roboto,sans-serif;
@@ -61,6 +67,7 @@
 }
 
 .image-episode {
+    position: relative;
     width: 100%;
     user-select: none;
     border-radius: 20px;
@@ -73,10 +80,41 @@
     user-select: none;
 }
 
-.image-episode:hover{
+.image-episode:hover .hover-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
     border-radius: 20px;
-    transform: scale(1.06);
-}
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .hover-overlay {
+    display: none;
+    flex-direction: column;
+    /* Estilos para el fondo negro con transparencia */
+  }
+  
+  .hover-overlay img {
+    width: 50px; /* Ajusta el tamaño de la imagen de play según tus necesidades */
+    height: 50px;
+  }
+  .title-grid h1{
+    font-family: Roboto, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #793000;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: -2%;
+  }
+  .hover-overlay p {
+    color: white;
+  }
 
 .episodes-header{
     width: 90%;
@@ -100,3 +138,30 @@
     font-family: Roboto,sans-serif;
     font-weight: 900;
 }
+
+ /* Estilos para pantallas pequeñas */
+ @media (max-width: 768px) {
+    .grid-episodes {
+        grid-gap: 20px;
+        background-color: #fff;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        margin-top: -3%;
+        padding: 5%;
+        width: 90%;
+    }
+
+    .logo-serie {
+        margin-left: -2%;
+        padding: 2%;
+        -webkit-user-select: none;
+        user-select: none;
+        width: 30%;
+    }
+
+    .info-serie-anime {
+        margin-left: 13%;
+        margin-top: -3%;
+        width: 72%;
+    }
+ }

@@ -7,6 +7,8 @@ import { useSearchParams, useParams } from "react-router-dom";
 import InfoSerie from './InfoSerie';
 import { setDoc, doc, getDoc, collection, getDocs, query, where } from "@firebase/firestore";
 import LoadingScreen from '../LoadingScreen';
+import Footer from '../Footer';
+import BannerHide from '../banner/BannerHide';
 
 
 function Episodes() {
@@ -38,11 +40,14 @@ function Episodes() {
       {serie? (
         <div>
           <Banner />
+          <BannerHide/>
           <InfoSerie logo={serie.logo}
               fondo={serie.fondo}
               sinopsis={serie.sinopsis}
+              serie={id}
             />
           <GridEpisodes id={id} />
+          <Footer/>
 
         </div>
       )

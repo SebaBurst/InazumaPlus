@@ -1,6 +1,12 @@
 import React from 'react'
 import '../../css/episodes.css'
-function InfoSerie({logo, fondo, sinopsis}) {
+
+function goSeason(e, series) {
+    e.preventDefault();
+    window.location = '/episode/'+series+"01";
+
+  }
+function InfoSerie({logo, fondo, sinopsis, serie}) {
     const divStyle = {
         backgroundImage: `url(${fondo})`,
         backgroundSize: 'cover',
@@ -15,7 +21,7 @@ function InfoSerie({logo, fondo, sinopsis}) {
                     <div className='resume-serie'>
                         <p>{sinopsis}</p>
                     </div>
-                    <div className='container-serie'>
+                    <div className='container-serie'  onClick={(e) => goSeason(e, serie)} >
                         Comenzar a Ver.
                     </div>
                 </div>

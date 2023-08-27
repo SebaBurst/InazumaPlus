@@ -5,7 +5,7 @@ function goEpisode(e, idEpisode) {
     window.location = '/episode/'+idEpisode ;
 
   }
-function Info({next, imagen, title}) {
+function Info({next, imagen, title, sinopsis}) {
     return (
         <div>
             <div className='information-section'>
@@ -17,7 +17,7 @@ function Info({next, imagen, title}) {
                         <h1>{title}</h1>
                     </div>
                     <div className='description'>
-                        <p>El Inakuni Raimon continua su enfrentamiento contra el Tonegawa Tosen, ahora podran superar la nueva leyenda de Endou Mamoru.</p>
+                        <p>{sinopsis}</p>
                     </div>
                 </div>
                 <div className='next-episode'  onClick={(e) => goEpisode(e, next)}>

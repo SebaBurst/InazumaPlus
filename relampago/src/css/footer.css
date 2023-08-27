@@ -1,0 +1,84 @@
+.footer{
+    background-color: #272727;
+    padding-top: 47px;
+    padding-bottom: 47px;
+}
+
+.container-footer{
+    width: 98%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-bottom{
+    margin-top: 2px;
+    padding-top: 2px;
+    position: relative;
+}
+
+
+.footer-top{
+    margin-top: 26px;
+    height: 30px;
+    color: white;
+    padding-top: 19px;
+    font-weight: 300;
+    text-align: center;
+    position: relative;
+    border-top: 1px solid hsla(0,0%,100%,.1);
+}
+
+.countback{
+    font-weight: 300;
+    margin: 18px;
+    padding: 10px;
+    background-color: white;
+    height: 95px;
+    font-size: 24px;
+    text-align: center;
+    color: #057c7c;
+    border-radius: 14px;
+}
+
+.countback p{
+    margin-top: 10px;
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.bgCam{
+    background-color: #0cc;
+}
+.logos-footer {
+    justify-content: center;
+    display: flex;
+}
+
+
+  /* Estilos para pantallas pequeñas */
+  @media (max-width: 768px) {
+    .container-footer{
+        width: 40%;
+    }
+    .footer{
+        width: 100%;
+    }
+    .logos-footer {
+        width: 10%;
+
+    }
+    .footer-top {
+        font-size: 14px;
+        height: 35px;
+        color: white;
+        font-weight: 300;
+        text-align: center;
+        border-top: 1px solid hsla(0,0%,100%,.1);
+        width: 360px;
+        padding: 3px;
+        margin-left: -93%;
+    }
+  }
+  

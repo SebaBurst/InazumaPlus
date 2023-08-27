@@ -6,6 +6,9 @@ import { useSearchParams, useParams } from "react-router-dom";
 import { firestore } from '../firebase-config';
 import { setDoc, doc, getDoc, collection, getDocs, getCountFromServer } from "@firebase/firestore";
 import LoadingScreen from './LoadingScreen';
+import Footer from './Footer';
+import BannerHide from './banner/BannerHide';
+
 
 function Player() {
   let { id } = useParams(); //ID GET FROM URL
@@ -26,6 +29,7 @@ function Player() {
             provedor: doc.data().provedor,
             next: doc.data().next,
             nombre: doc.data().nombre,
+            sinopsis: doc.data().sinopsis,
             imagenNext: doc.data().nextImagen,
           };
           setEpisode(userData);
@@ -41,15 +45,18 @@ function Player() {
       {episode ? (
         <div>
           <Banner />
+          <BannerHide/>
           <Video
             provedor={episode.provedor}
             videoId={episode.video}
           />
+
           <Info next={episode.next}
             title={episode.nombre}
             imagen={episode.imagenNext}
+            sinopsis={episode.sinopsis}
           />
-
+          <Footer/>
         </div>
       ) : (
         <LoadingScreen/>

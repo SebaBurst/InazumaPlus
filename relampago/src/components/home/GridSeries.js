@@ -13,13 +13,17 @@ import og_Hover from '../../assets/og-hover.png'
 import outer from '../../assets/outer.png'
 import outer_Hover from '../../assets/outer-hover.png'
 import '../../css/series.css'
+function goSeason(e, series) {
+  e.preventDefault();
+  window.location = '/series/'+series;
 
+}
 function GridSeries() {
   return (
     <div>
       <div className='grid-container-series'>
         <div>
-          <div className='card-image'>
+          <div className='card-image' onClick={(e) => goSeason(e, "Ares")}>
             <img src={Ares}></img>
             <div className='hover-image'>
               <img src={Ares_Hover}></img>
@@ -27,7 +31,7 @@ function GridSeries() {
           </div>
         </div>
         <div>
-          <div className='card-image'>
+          <div className='card-image' onClick={(e) => goSeason(e, "Orion")}>
             <img src={orion}></img>
             <div className='hover-image'>
               <img src={orion_Hover}></img>
@@ -36,7 +40,7 @@ function GridSeries() {
         </div>
 
         <div>
-          <div className='card-image'>
+          <div className='card-image' onClick={(e) => goSeason(e, "Go")}>
             <img src={go}></img>
             <div className='hover-image'>
               <img src={go_Hover}></img>
@@ -46,7 +50,7 @@ function GridSeries() {
 
 
         <div>
-          <div className='card-image'>
+          <div className='card-image' onClick={(e) => goSeason(e, "Original")}>
             <img src={og}></img>
             <div className='hover-image'>
               <img src={og_Hover}></img>
@@ -56,7 +60,7 @@ function GridSeries() {
 
 
         <div>
-          <div className='card-image'>
+          <div className='card-image' onClick={(e) => goSeason(e, "Outer")}>
             <img src={outer}></img>
             <div className='hover-image'>
               <img src={outer_Hover}></img>

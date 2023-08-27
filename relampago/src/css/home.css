@@ -1,9 +1,6 @@
 .home-bg {
-
-
-
     border-top: solid 17px #4e4d4cde;
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/visual.png?alt=media&token=db889bac-8d00-41a5-9612-b26745c09099");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/visual%20(1).png?alt=media&token=32accbe3-def5-4be3-83b1-c921b3035b72");
     height: 400px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -11,13 +8,43 @@
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
+    user-select: none;
 
     border-bottom: solid 17px #4e4d4cde;
 }
 
+
+.header-hero{
+    background-color: #40404054;
+    width: 100%;
+    height: 100%;
+}
+
+
+.hero-text{
+    margin-left: 9%;
+    width: 35%;
+    margin-top: 5%;
+}
+.hero-text h1{
+    font-weight: 700;
+    font-size: 46px;
+    color: white;
+    font-family: Roboto;
+}
+
+
+.hero-text p{
+    font-weight: 600;
+    color: white;
+    font-size: 19px;
+    font-family: Roboto;
+}
 .grid-container-series {
     width: 90%;
     display: grid;
+    user-select: none;
+
     padding: 5%;
     background-color: #3c3c3c;
     grid-template-columns: repeat(5, 1fr);
@@ -31,6 +58,8 @@
     padding: 5%;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
+    user-select: none;
+
 }
 
 
@@ -40,21 +69,29 @@
     padding: 5%;
     grid-template-columns: repeat(7, 1fr);
     grid-gap: 10px;
+    user-select: none;
+
 }
 
 .card-image-poster {
     position: relative;
     cursor: pointer;
     width: 100%;
+    user-select: none;
+
 }
 
 .card-image-poster img {
     width: 100%;
+    user-select: none;
+
 }
 
 .card-image-poster:hover {
     transition: border 300ms ease-out 0s;
     transform: scale(1.05);
+    user-select: none;
+
 }
 
 
@@ -63,16 +100,20 @@
     position: relative;
     cursor: pointer;
     width: 100%;
+    user-select: none;
+
 }
 
 .card-image-movie img {
     border-radius: 20px;
+    user-select: none;
 
     width: 100%;
 }
 
 .card-image-movie:hover {
     border-radius: 20px;
+    user-select: none;
 
     transition: border 300ms ease-out 0s;
     transform: scale(1.05);
@@ -83,3 +124,43 @@
     padding: 10px;
     font-size: 30px;
 }
+
+ /* Estilos para pantallas pequeñas */
+ @media (max-width: 768px) {
+    .hero-text {
+        margin-left: 11%;
+        margin-top: 10%;
+        width: 81%;
+    }
+    .grid-container-series {
+        grid-gap: 10px;
+        background-color: #3c3c3c;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .grid-container-seasons {
+        grid-gap: 10px;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        padding: 5%;
+        -webkit-user-select: none;
+        user-select: none;
+        width: 90%;
+    }
+    .grid-container-movies {
+        grid-gap: 10px;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .home-bg {
+        align-items: flex-end;
+        background-image: url(https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/visual.png?alt=media&token=57e6f202-1f61-464d-9e6e-afe7b467df87);
+        border-bottom: 17px solid #4e4d4cde;
+        border-top: 17px solid #4e4d4cde;
+        display: flex;
+        height: 381px;
+        -webkit-user-select: none;
+        user-select: none;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+ }

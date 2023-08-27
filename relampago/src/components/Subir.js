@@ -6,17 +6,17 @@ function Subir() {
 
     async function handleSubmit(event) {
         event.preventDefault();
-        const name = event.target.elements.name.value;
-       
-        const id = event.target.elements.id.value;
+       const id3= event.target.elements.id.value;
+        const id = "Movie"+event.target.elements.id.value;
+        const name = "Pelicula"+id3+" - "+event.target.elements.name.value;
 
         const imagen = event.target.elements.imagen.value;
 
-        const next = event.target.elements.next.value;
+        const next = "Movie"+event.target.elements.next.value;
         const nextimagen = event.target.elements.nextimagen.value;
         const url = event.target.elements.enlace.value;
-        await setDoc(doc(firestore, "Series", "Fuego", "episodes", id), {
-            nombre: name,
+        await setDoc(doc(firestore, "Series", "Movie", "episodes", id), {
+           nombre: name,
            idvideo: url,
            next: next,
            nextImagen: nextimagen,
