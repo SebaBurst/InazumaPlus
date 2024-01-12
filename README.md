@@ -20,3 +20,9 @@
 </br>
 
 ## Platform features
+- <a>Episode List</a>
+<img src="https://i.imgur.com/Mes03VT.png">
+</br>
+
+- <a>Episode viewer</a>
+<img src="https://i.imgur.com/GwBns1r.png">
