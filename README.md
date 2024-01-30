@@ -2,7 +2,7 @@
 <h1 align="center">Inazuma Eleven Plus - Anime Streaming Plataform</h1>
 </div>
 
-<img src="https://sebaburst.netlify.app/assets/inazuma.jpg](https://sebaburst.netlify.app/static/media/inazuma.b124a8cd3c0dd462fb00.png">
+<img src="https://sebaburst.netlify.app/static/media/inazuma.b124a8cd3c0dd462fb00.png">
 
 ## Description
 
