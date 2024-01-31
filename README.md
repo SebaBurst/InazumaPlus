@@ -1,28 +1,22 @@
 <div align="center">
-<h1 align="center">Inazuma Eleven Plus - Anime Streaming Plataform</h1>
+<h1 align="center">Pokedex Mobile with Pokemon and Trainers with React Js and Kotlin Webview</h1>
 </div>
 
-<img src="https://sebaburst.netlify.app/static/media/inazuma.b124a8cd3c0dd462fb00.png">
+<img src="https://sebaburst.netlify.app/static/media/pokedex.2d661dfd585dda5b1df4.png">
 
 ## Description
 
-- Inazuma Eleven Plus is a multiplataform website developed in React Js with Firebase and Pure CSS (without design libraries), is a Streaming Inazuma Eleven Anime in Japanase Audio with Spanish subtitles, all series is available in <a href="https://inazumaplus.netlify.app">this site</a>.
+- Mobile application developed in React Js and Kotlin that consumes the Pokemon API and generates a new one with the trainers, shows information about the Pokemon and Trainers of Pokemon World.
 </br>
 
 
 ## Technologies
 - React Js
 - Javascript
-- Firebase
+- PokeApi
 - Json
 - HTML
 - CSS
+- Kotlin Webview
 </br>
 
-## Platform features
-- <a>Episode List</a>
-<img src="https://i.imgur.com/Mes03VT.png">
-</br>
-
-- <a>Episode viewer</a>
-<img src="https://i.imgur.com/GwBns1r.png">
