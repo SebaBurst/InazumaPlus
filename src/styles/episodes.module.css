@@ -1,0 +1,119 @@
+.containerEpisodes {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: static;
+    flex-direction: column;
+}
+
+.containerEpisodes_bg {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    background-size: contain;
+    background-image: url('../assets/bgsoccer.png');
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.episodes_grid {
+    grid-gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin-top: -3%;
+    width: 90%;
+    background-color: #ea7e26;
+    padding: 5%;
+}
+
+.containerEpisodes h1 {
+    font-size: 32px;
+    margin-left: 5%;
+    font-weight: bolder;
+    margin-top: -5%;
+    z-index: 999;
+    margin-bottom: 6px;
+    color: white;
+}
+
+
+
+.episode_hero_background {
+    width: 100%;
+    height: 700px;
+    margin-top: -80px;
+    position: relative;
+}
+
+
+.image_container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+
+
+.image_container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    mask-image: linear-gradient(black 90%, transparent);
+}
+
+.hero_blur {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.hero_text {
+    width: 35%;
+    margin-left: 3%;
+    margin-top: 6%;
+}
+
+.hero_text a{
+    cursor: pointer;
+    background-color: #ff3f3a;
+    border-radius: 10px;
+    padding: 10px;
+    width: 580px;
+    border: 3px solid #ff3f3a;
+    color: white;
+    font-weight:600;
+    transition: ease-out 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3%;
+    gap: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.hero_text a:hover{
+    box-shadow: inset 680px 0 0 0 white;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 3px solid #ff6030;
+    color: #ff3f3a;
+}
+
+.hero_text p {
+    color: #dadada;
+    font-size: 1rem;
+    font-weight: 500;
+}
+

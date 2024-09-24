@@ -1,0 +1,2954 @@
+{
+  "__collections__": {
+    "Series": {
+      "Ares": {
+        "nombre": "Inazuma Eleven Ares",
+        "logo": "https://drive.google.com/uc?id=14QA4TbBwegkI_0VTsSZtsdsWrckYgW2m&export=download",
+        "sinopsis": "Inamori Asuto junto con sus compañeros de la Isla Remota se van a Tokio (Ciudad Inazuma) para unirse al club de fútbol del Instituto Raimon para intentar ganar el torneo Fútbol Frontier y así salvar a su club de fútbol en su instituto de origen.",
+        "fondo": "https://images-fio.6play.fr/v2/images/3301737/raw?auto=webp&blur=0&fit=scale_crop&height=1170&interlace=1&optimize=high&width=2080&hash=e4d2edc4c18231c4d3944caacc0bcdd4a6e10136",
+        "__collections__": {
+          "episodes": {
+            "Ares01": {
+              "nombre": "E01 - ¡Navegando hacia el mañana!",
+              "provedor": "youtube",
+              "numero": 1,
+              "next": "Ares02",
+              "nextImagen": "https://i.ytimg.com/vi/wl0AFeWIPtY/maxresdefault.jpg",
+              "imagen": "https://i.ytimg.com/vi/4K3aW27ulXs/maxresdefault.jpg",
+              "idvideo": "https://filemoon.sx/e/ceglxt64jlg7/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_1_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares02": {
+              "nombre": "E02 - ¡El Demonio del Campo!",
+              "provedor": "youtube",
+              "numero": 2,
+              "imagen": "https://i.ytimg.com/vi/wl0AFeWIPtY/maxresdefault.jpg",
+              "next": "Ares03",
+              "nextImagen": "https://i.ytimg.com/vi/oNNq46EkOVw/maxresdefault.jpg",
+              "idvideo": "https://filemoon.sx/e/mkndygo38kam/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_2_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares03": {
+              "next": "Ares04",
+              "provedor": "youtube",
+              "nextImagen": "https://inazumafrontier.files.wordpress.com/2018/04/073.png?w=1100",
+              "imagen": "https://inazumafrontier.files.wordpress.com/2018/04/023.png?w=1100",
+              "nombre": "E03 -  El Misterioso Entrenador Chou Kinun",
+              "idvideo": "https://filemoon.sx/e/jxnlbg0wasm0/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_3_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares04": {
+              "next": "Ares05",
+              "imagen": "https://inazumafrontier.files.wordpress.com/2018/04/073.png?w=1100",
+              "provedor": "youtube",
+              "nextImagen": "https://inazumafrontier.files.wordpress.com/2018/05/17.png",
+              "nombre": "E04 - ¿Derrotarlos? Fortaleza Inexpugnable",
+              "idvideo": "https://filemoon.sx/e/ylpge6f9vbl8/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_4_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares05": {
+              "next": "Ares06",
+              "imagen": "https://silo.pluto.tv/origin/ZooDigital/InazumaElevenAres_es/S01/05/InazumaElevenAres_S01E05_es_screenshot_01_16x9.jpg?fill=blur&fit=fill&fm=jpg&auto=&ixlib=react-9.1.5&q=75&w=231&h=130&dpr=1",
+              "nextImagen": "https://images.pluto.tv/episodes/612cdcde88b83100139ad614/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&auto=&ixlib=react-9.1.5&q=75&w=231&h=130&dpr=1",
+              "nombre": "E05 - La oscuridad de la Seisho Gakuen",
+              "idvideo": "https://filemoon.sx/e/jw4b3pg8nrun/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_5_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares06": {
+              "next": "Ares07",
+              "imagen": "https://images.pluto.tv/episodes/612cdcde88b83100139ad614/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&auto=&ixlib=react-9.1.5&q=75&w=231&h=130&dpr=1",
+              "nextImagen": "https://images.pluto.tv/episodes/612cdcdf88b83100139ad69b/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&auto=&ixlib=react-9.1.5&q=75&w=231&h=130&dpr=1",
+              "nombre": "E06 - ¡El Delantero estrella de Fuego!",
+              "idvideo": "https://filemoon.sx/e/a0fs7l3laq5e/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_6_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares07": {
+              "next": "Ares08",
+              "imagen": "https://s1.dmcdn.net/v/SkDtm1WDvne_U4rHy/x240",
+              "nextImagen": "https://s2.dmcdn.net/v/SkE0P1W9kwUYeBpmm/x240",
+              "nombre": "E07 - La luz comienza a aparecer",
+              "idvideo": "https://filemoon.sx/e/t3p3h48gu3b0/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_7_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares08": {
+              "next": "Ares09",
+              "imagen": "https://s2.dmcdn.net/v/SkE0P1W9kwUYeBpmm/x240",
+              "nextImagen": "https://s2.dmcdn.net/v/SkEC11W9vDd-faRn4/x240",
+              "nombre": "E08 - Un día sin el entrenador",
+              "idvideo": "https://filemoon.sx/e/ru734fckpp6h/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_8_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares09": {
+              "next": "Ares10",
+              "imagen": "https://s2.dmcdn.net/v/SkEC11W9vDd-faRn4/x240",
+              "nextImagen": "https://s2.dmcdn.net/v/SkNU31W8Mo-20HNXB/x240",
+              "nombre": "E09 - El plan ingenioso del comandante Reiji Kageyama",
+              "idvideo": "https://filemoon.sx/e/22d83d5m2iwx/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_9_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares10": {
+              "next": "Ares11",
+              "imagen": "https://s2.dmcdn.net/v/SkNU31W8Mo-20HNXB/x240",
+              "nextImagen": "https://s1.dmcdn.net/v/SynxI1WhKkb9j1Dn7/x240",
+              "nombre": "E10 - ¡Colisión! ¡Pingüino Emperador contra Oso Polar!!",
+              "idvideo": "https://filemoon.sx/e/23m782xqtljm/_Juanit__Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_10_-_Sub_Espa_ol_-_BDRip_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares11": {
+              "next": "Ares12",
+              "imagen": "https://s1.dmcdn.net/v/SynxI1WhKkb9j1Dn7/x240",
+              "nextImagen": "https://s2.dmcdn.net/v/Syo5X1WhKllOZMkL7/x240",
+              "nombre": "E11 - La noche antes del partido, la decisión de Asuto",
+              "idvideo": "https://filemoon.sx/e/6l0urhqb75nt/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_11_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares12": {
+              "next": "Ares13",
+              "imagen": "https://s2.dmcdn.net/v/Syo5X1WhKllOZMkL7/x240",
+              "nextImagen": "https://i.ytimg.com/vi/DCB1ozTUVkg/maxresdefault.jpg",
+              "nombre": "E12 - Haizaki arde al rojo vivo",
+              "idvideo": "https://filemoon.sx/e/twybdom68abj/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_12_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares13": {
+              "next": "Ares14",
+              "imagen": "https://i.ytimg.com/vi/DCB1ozTUVkg/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/R5fukHhsfkQ/maxresdefault.jpg",
+              "nombre": "E13 - ¡Termina la intensa tormenta!",
+              "idvideo": "https://filemoon.sx/e/5kd8aq1xjne9/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_13_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares14": {
+              "next": "Ares15",
+              "imagen": "https://i.ytimg.com/vi/R5fukHhsfkQ/maxresdefault.jpg",
+              "nextImagen": "https://silo.pluto.tv/origin/ZooDigital/InazumaElevenAres_es/S01/15/InazumaElevenAres_S01E15_es_screenshot_01_16x9.jpg?fill=blur&fit=fill&fm=jpg&auto=&ixlib=react-9.1.5&q=75&w=231&h=130&dpr=1",
+              "nombre": "E14 - El emperador de la luz de la luna",
+              "idvideo": "https://filemoon.sx/e/md8v3qr0xcd7/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_14_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares15": {
+              "next": "Ares16",
+              "imagen": "https://s2.dmcdn.net/v/SyoFT1WhKm6xjZ3nL/x240",
+              "nombre": "E15 - La angustia del emperador",
+              "nextImagen": "https://inazumafrontier.files.wordpress.com/2018/07/213.png?w=1100",
+              "idvideo": "https://filemoon.sx/e/5gvirwkevp7e/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_15_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares16": {
+              "next": "Ares17",
+              "imagen": "https://inazumafrontier.files.wordpress.com/2018/07/213.png?w=1100",
+              "nextImagen": "https://i.ytimg.com/vi/dnwvmHE6OOY/maxresdefault.jpg",
+              "nombre": "E16 - Los dos príncipes de los campos de nieve",
+              "idvideo": "https://filemoon.sx/e/u6kow8he5kvy/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_16_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares17": {
+              "next": "Ares18",
+              "imagen": "https://i.ytimg.com/vi/dnwvmHE6OOY/maxresdefault.jpg",
+              "nextImagen": "https://pic-bstarstatic.akamaized.net/ugc/d91977b8d3c3994e756177d20d7c11abd29991b0.jpg",
+              "nombre": "E17 - ¡Explosivo! La gran estrategia de la princesa de las nieves",
+              "idvideo": "https://filemoon.sx/e/qsn6n2pjmas6/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_17_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares18": {
+              "next": "Ares19",
+              "imagen": "https://pic-bstarstatic.akamaized.net/ugc/d91977b8d3c3994e756177d20d7c11abd29991b0.jpg",
+              "nextImagen": "https://s2.dmcdn.net/v/T0K5J1WkL5H1W0xl0/x1080",
+              "nombre": "E18 - Los sueños del Sun Garden",
+              "idvideo": "https://filemoon.sx/e/d6a0oe5jc96o/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_18_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares19": {
+              "next": "Ares20",
+              "imagen": "https://s2.dmcdn.net/v/T0K5J1WkL5H1W0xl0/x1080",
+              "nombre": "E19 - La jugada individual definitiva",
+              "nextImagen": "https://simkl.in/episodes/71/71983608dde2549f3_w.jpg",
+              "idvideo": "https://filemoon.sx/e/vqi33e4v85n9/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_19_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares20": {
+              "next": "Ares21",
+              "nextImagen": "https://i.ytimg.com/vi/dSsBXV1jCb8/maxresdefault.jpg",
+              "nombre": "E20 - La técnica Hissatsu definitiva, su nombre es..",
+              "imagen": "https://simkl.in/episodes/71/71983608dde2549f3_w.jpg",
+              "idvideo": "https://filemoon.sx/e/3fhb0z7pdyxb/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_20_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares21": {
+              "next": "Ares22",
+              "imagen": "https://i.ytimg.com/vi/dSsBXV1jCb8/maxresdefault.jpg",
+              "nextImagen": "https://64.media.tumblr.com/e7fd9bed5e1e3154ff7d490c0a44d45e/tumblr_pjt2ladouh1x31h2ho1_1280.png",
+              "nombre": "E21 - El equipo se desmorona",
+              "idvideo": "https://filemoon.sx/e/kbwu94g2bnvg/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_21_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares22": {
+              "next": "Ares23",
+              "imagen": "https://64.media.tumblr.com/e7fd9bed5e1e3154ff7d490c0a44d45e/tumblr_pjt2ladouh1x31h2ho1_1280.png",
+              "nextImagen": "https://i.ytimg.com/vi/AxhrceMvzkY/maxresdefault.jpg",
+              "nombre": "E22 - El capitán legendario",
+              "idvideo": "https://filemoon.sx/e/at7ov5ekr3se/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_22_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares23": {
+              "next": "Ares24",
+              "imagen": "https://i.ytimg.com/vi/AxhrceMvzkY/maxresdefault.jpg",
+              "nextImagen": "https://s1.dmcdn.net/v/S_Biy1WibrjkudpHN/x240",
+              "nombre": "E23 - ¡Superando a la leyenda!",
+              "idvideo": "https://filemoon.sx/e/1bbkejs286pg/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_23_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares24": {
+              "next": "Ares25",
+              "imagen": "https://s1.dmcdn.net/v/S_Biy1WibrjkudpHN/x240",
+              "nextImagen": "https://preview.redd.it/the-power-scaling-in-ares-is-nonsense-the-outei-tsukinomiya-v0-3rliu40npr7b1.jpg?auto=webp&s=af053e8c253c2a1c2153778817ca0e921c0ae559",
+              "nombre": "E24 - La declaración de guerra de Nosaka",
+              "idvideo": "https://filemoon.sx/e/taj93qpdv45n/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_24_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares25": {
+              "next": "Ares26",
+              "imagen": "https://preview.redd.it/the-power-scaling-in-ares-is-nonsense-the-outei-tsukinomiya-v0-3rliu40npr7b1.jpg?auto=webp&s=af053e8c253c2a1c2153778817ca0e921c0ae559",
+              "nextImagen": "https://i.ytimg.com/vi/B4P_seEVLj0/maxresdefault.jpg",
+              "nombre": "E25 - ¡¡Colisión de Fútbol!!",
+              "idvideo": "https://filemoon.sx/e/4t6h241szyg8/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_25_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            },
+            "Ares26": {
+              "imagen": "https://i.ytimg.com/vi/B4P_seEVLj0/maxresdefault.jpg",
+              "nextImagen": "https://takamakiokerar.files.wordpress.com/2019/10/inazuma-eleven-orion-no-kokuin-11570-1.jpg",
+              "nombre": "E26 - ¡Corre hacia la cima!",
+              "next": "Orion01",
+              "idvideo": "https://filemoon.sx/e/b69iillboq3g/Inazuma_Eleven-_Ares_no_Tenbin_-_Cap_tulo_26_-_Sub_Espa_ol_-_HD_1080p_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Chrono": {
+        "logo": "https://drive.google.com/uc?id=1OEdyMBD8qRB7-lmakkttXOUeuAFnZclN&export=download",
+        "fondo": "https://areajugones.sport.es/wp-content/uploads/2015/03/IE-GO2-Chrono-Stones_US_PROD.jpg",
+        "sinopsis": "Fei viene de 200 años del futuro y está intentando impedir que el Dorado y sus equipo destruyan el fútbol desde sus orígenes. Por ello Arion y sus compañeros habran que coseguir los once mejores del futbol, viajando entre las distintas epocas.",
+        "__collections__": {
+          "episodes": {
+            "Chrono01": {
+              "next": "Chrono02",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/99/3099/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/00/3100/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E01 - ¿Ha desaparecido el fútbol?",
+              "idvideo": "https://filemoon.sx/e/a46vjrt0tc0i/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-01.mp4",
+              "__collections__": {}
+            },
+            "Chrono02": {
+              "next": "Chrono03",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/00/3100/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/10/3101/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E02 - ¡Tenma salta a través del tiempo!",
+              "idvideo": "https://filemoon.sx/e/b54p00nrf40n/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-02.mp4",
+              "__collections__": {}
+            },
+            "Chrono03": {
+              "next": "Chrono04",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/10/3101/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/20/3102/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E03 - ¡El Raimon revive!",
+              "idvideo": "https://filemoon.sx/e/qsr20k95nxn2/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-03.mp4",
+              "__collections__": {}
+            },
+            "Chrono04": {
+              "next": "Chrono05",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/20/3102/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/30/3103/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E04 - ¡El último fútbol!",
+              "idvideo": "https://filemoon.sx/e/qmtb7e8u1m4d/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-04.mp4",
+              "__collections__": {}
+            },
+            "Chrono05": {
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/30/3103/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/40/3104/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E05 - ¡Consternación! ¡El fútbol está prohibido!",
+              "next": "Chrono06",
+              "idvideo": "https://filemoon.sx/e/sh42c1vku74v/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-05.mp4",
+              "__collections__": {}
+            },
+            "Chrono06": {
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/40/3104/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/50/3105/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E06 - ¡El feroz Protocol Omega 2.0!",
+              "next": "Chrono07",
+              "idvideo": "https://filemoon.sx/e/0ii2bsm7s9r2/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-06.mp4",
+              "__collections__": {}
+            },
+            "Chrono07": {
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/50/3105/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/60/3106/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E07 - Entrenamiento en el God Eden",
+              "next": "Chrono08",
+              "idvideo": "https://filemoon.sx/e/25zc94kszl96/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-07.mp4",
+              "__collections__": {}
+            },
+            "Chrono08": {
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/60/3106/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/70/3107/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E08 - ¡Domínalo! ¡Keshin Armed!",
+              "next": "Chrono09",
+              "idvideo": "https://filemoon.sx/e/cv1ps0k7savj/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-08.mp4",
+              "__collections__": {}
+            },
+            "Chrono09": {
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/70/3107/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/80/3108/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E09 -  ¡A conseguir el Libro Sagrado de los Campeones!",
+              "next": "Chrono010",
+              "idvideo": "https://filemoon.sx/e/fgn189gl67po/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-09.mp4",
+              "__collections__": {}
+            },
+            "Chrono10": {
+              "next": "Chrono11",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/80/3108/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/90/3109/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E10 - Una reunión impactante con Daisuke Endo!",
+              "idvideo": "https://filemoon.sx/e/5ta7kx0jdu9n/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-10.mp4",
+              "__collections__": {}
+            },
+            "Chrono11": {
+              "next": "Chrono12",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/90/3109/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/01/3110/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E11 - ¡Encuéntralos! ¿¡Los once más fuertes de la historia!?",
+              "idvideo": "https://filemoon.sx/e/0i9ezs60t3a5/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-11.mp4",
+              "__collections__": {}
+            },
+            "Chrono12": {
+              "next": "Chrono13",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/01/3110/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/11/3111/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E12 - ¡Aquí estamos! ¡La villa de Nobunaga!",
+              "idvideo": "https://filemoon.sx/e/zas0xosdsz40/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-12.mp4",
+              "__collections__": {}
+            },
+            "Chrono13": {
+              "next": "Chrono14",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/11/3111/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/21/3112/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E13 - ¡Una inmensa batalla contra el equipo White Deer!",
+              "idvideo": "https://filemoon.sx/e/ssq0dvylcop8/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-13.mp4",
+              "__collections__": {}
+            },
+            "Chrono14": {
+              "next": "Chrono15",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/21/3112/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/31/3113/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E14 - ¡Infiltración! ¡La gran misión del bailarín!",
+              "idvideo": "https://filemoon.sx/e/1nvxyajqirfs/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-14.mp4",
+              "__collections__": {}
+            },
+            "Chrono15": {
+              "next": "Chrono16",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/31/3113/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/41/3114/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E15 - ¡Entrenamiento en la provincia de Owari!",
+              "idvideo": "https://filemoon.sx/e/rzn38fj0smsw/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-15.mp4",
+              "__collections__": {}
+            },
+            "Chrono16": {
+              "next": "Chrono17",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/41/3114/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/51/3115/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E16 - La batalla final en el festival de los bufones!",
+              "idvideo": "https://filemoon.sx/e/knk0eunoxc6a/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-16.mp4",
+              "__collections__": {}
+            },
+            "Chrono17": {
+              "next": "Chrono18",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/51/3115/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/61/3116/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E17 - ¡Un mundo de sueños!",
+              "idvideo": "https://filemoon.sx/e/7cghugra4gt8/_UnH-_848x480__Inazuma_Eleven_GO_Chrono_Stone_-17_VL.mp4",
+              "__collections__": {}
+            },
+            "Chrono18": {
+              "next": "Chrono19",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/61/3116/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/71/3117/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E18 - ¡Todos han regresado!",
+              "idvideo": "https://filemoon.sx/e/t0zwrkiq9tys/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-18.mp4",
+              "__collections__": {}
+            },
+            "Chrono19": {
+              "next": "Chrono20",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/71/3117/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/81/3118/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E19 - La chica de la armadura",
+              "idvideo": "https://filemoon.sx/e/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-19.mp4",
+              "__collections__": {}
+            },
+            "Chrono20": {
+              "next": "Chrono21",
+              "idvideo": "https://filemoon.sx/e/https://www.dailymotion.com/video/x7snt7z",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/81/3118/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/91/3119/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E20 - ¡Fútbol dentro de las llamas!",
+              "__collections__": {}
+            },
+            "Chrono21": {
+              "next": "Chrono22",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/91/3119/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/02/3120/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E21 - ¡Un juramento sobre esta bandera!",
+              "idvideo": "https://filemoon.sx/e/uo5skhrff7rb/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-21.mp4",
+              "__collections__": {}
+            },
+            "Chrono22": {
+              "next": "Chrono23",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/02/3120/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/12/3121/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E22 - ¡El señor Ryubi es gracioso!",
+              "idvideo": "https://filemoon.sx/e/y9vvytktgqpo/_UnH-_848x480__Inazuma_Eleven_GO_Chrono_Stone_-22_VL.mp4",
+              "__collections__": {}
+            },
+            "Chrono23": {
+              "next": "Chrono24",
+              "idvideo": "https://filemoon.sx/e/https://www.dailymotion.com/video/x7snw0j",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/12/3121/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/22/3122/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E23 - ¡Sorpresa en la fortaleza de Komei!",
+              "__collections__": {}
+            },
+            "Chrono24": {
+              "next": "Chrono25",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/22/3122/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/32/3123/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E24 - ¡Un ataque feroz! ¡El Zanark Domain!",
+              "idvideo": "https://filemoon.sx/e/cqkx7kxvuge4/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-24.mp4",
+              "__collections__": {}
+            },
+            "Chrono25": {
+              "next": "Chrono26",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/32/3123/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/42/3124/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E25 - ¡Explota el poder de Komei!",
+              "idvideo": "https://filemoon.sx/e/7jo53e17pud9/_UnH-_1280x720__Inazuma_Eleven_GO_Chrono_Stone_-25.mp4",
+              "__collections__": {}
+            },
+            "Chrono26": {
+              "next": "Chrono27",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/42/3124/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/52/3125/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E26 - ¡Ryoma Sakamoto aparece!",
+              "idvideo": "https://filemoon.sx/e/aptvoqzsd8op/I.E_Go_Chrono_Stone_26.mp4",
+              "__collections__": {}
+            },
+            "Chrono27": {
+              "next": "Chrono28",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/52/3125/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/62/3126/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E27 - ¡Soji Okita, el espadachín de la época Shogunato!",
+              "idvideo": "https://filemoon.sx/e/aqrvj397qvdr/I.E_Go_Chrono_Stone_27.mp4",
+              "__collections__": {}
+            },
+            "Chrono28": {
+              "next": "Chrono30",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/62/3126/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/72/3127/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E28 - Especial de una Hora - ¡Batalla! ¡¡Sakamoto contra Okita!!",
+              "idvideo": "https://filemoon.sx/e/y1sf77nplayi/I.E_Go_Chrono_Stone_28_y_29.mp4",
+              "__collections__": {}
+            },
+            "Chrono30": {
+              "next": "Chrono31",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/82/3128/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/92/3129/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E30 - La Leyenda de Mamoru Endo",
+              "idvideo": "https://filemoon.sx/e/eauw5vsdw8vr/I.E_Go_Chrono_Stone_30.mp4",
+              "__collections__": {}
+            },
+            "Chrono31": {
+              "next": "Chrono32",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/92/3129/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/03/3130/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E31 - ¡Vamos a la era de los dinosaurios!",
+              "idvideo": "https://filemoon.sx/e/w7irzogn9hha/I.E_Go_Chrono_Stone_31.mp4",
+              "__collections__": {}
+            },
+            "Chrono32": {
+              "next": "Chrono33",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/03/3130/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/13/3131/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E32 - ¡Hay que verlo! ¡El Rey de los Dinosaurios!",
+              "idvideo": "https://filemoon.sx/e/2616164z7zlo/I.E_Go_Chrono_Stone_32.mp4",
+              "__collections__": {}
+            },
+            "Chrono33": {
+              "next": "Chrono34",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/13/3131/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/23/3132/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E33 - ¡La batalla decisiva en el Valle de las Bestias!",
+              "idvideo": "https://filemoon.sx/e/keqy6hiq8rq8/I.E_Go_Chrono_Stone_33.mp4",
+              "__collections__": {}
+            },
+            "Chrono34": {
+              "next": "Chrono35",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/23/3132/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/33/3133/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E34 - La voz que aulló un adiós",
+              "idvideo": "https://filemoon.sx/e/bupkcff9kfye/I.E_Go_Chrono_Stone_34.mp4",
+              "__collections__": {}
+            },
+            "Chrono35": {
+              "next": "Chrono36",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/33/3133/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/43/3134/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E35 - ¡Un salto hacia la leyenda!",
+              "idvideo": "https://filemoon.sx/e/mcg1k9fihvmh/I.E_Go_Chrono_Stone_35.mp4",
+              "__collections__": {}
+            },
+            "Chrono36": {
+              "next": "Chrono37",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/43/3134/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/53/3135/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E36 - ¡Reúnanse! ¡Los Caballeros de la Tabla Redonda!",
+              "idvideo": "https://filemoon.sx/e/b3ijgwa7fpig/I.E_Go_Chrono_Stone_36.mp4",
+              "__collections__": {}
+            },
+            "Chrono37": {
+              "next": "Chrono38",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/53/3135/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/63/3136/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E37 - ¡El Rey Arturo y la Maestra Dragón!",
+              "idvideo": "https://filemoon.sx/e/iwhr9tw5w52q/I.E_Go_Chrono_Stone_37.mp4",
+              "__collections__": {}
+            },
+            "Chrono38": {
+              "next": "Chrono39",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/63/3136/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/73/3137/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E38 - ¡El horroroso Modo Hyper Dive!",
+              "idvideo": "https://filemoon.sx/e/a891nttp8ymr/I.E_Go_Chrono_Stone_38.mp4",
+              "__collections__": {}
+            },
+            "Chrono39": {
+              "next": "Chrono40",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/73/3137/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/83/3138/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E39 - ¡Unión! ¡Raimon y El Dorado!",
+              "idvideo": "https://filemoon.sx/e/t140epykiob6/I.E_Go_Chrono_Stone_39.mp4",
+              "__collections__": {}
+            },
+            "Chrono40": {
+              "next": "Chrono41",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/83/3138/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/93/3139/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E40 - ¡La gran apertura! ¡Ragnarok, la batalla final!",
+              "idvideo": "https://filemoon.sx/e/041kh6syfy6z/I.E_Go_Chrono_Stone_40.mp4",
+              "__collections__": {}
+            },
+            "Chrono41": {
+              "next": "Chrono42",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/93/3139/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/04/3140/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E41 - ¡El despertar de Fei!",
+              "idvideo": "https://filemoon.sx/e/nv6y97507pbe/I.E_Go_Chrono_Stone_41.mp4",
+              "__collections__": {}
+            },
+            "Chrono42": {
+              "next": "Chrono43",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/04/3140/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/14/3141/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E42 - ¡El undécimo poder más fuerte de la historia!",
+              "idvideo": "https://filemoon.sx/e/aeu0j9t1x7ze/I.E_Go_Chrono_Stone_42.mp4",
+              "__collections__": {}
+            },
+            "Chrono43": {
+              "next": "Chrono44",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/14/3141/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/24/3142/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E43 - ¡Aparece Mecha Endo!",
+              "idvideo": "https://filemoon.sx/e/n2wmvqcp7lc8/I.E_Go_Chrono_Stone_43.mp4",
+              "__collections__": {}
+            },
+            "Chrono44": {
+              "next": "Chrono45",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/24/3142/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/34/3143/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E44 - ¿Fei es el enemigo?",
+              "idvideo": "https://filemoon.sx/e/phy9duk9bsh3/I.E_Go_Chrono_Stone_44.mp4",
+              "__collections__": {}
+            },
+            "Chrono45": {
+              "next": "Chrono46",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/34/3143/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/44/3144/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E45 - ¡Great Max na Ore!",
+              "idvideo": "https://filemoon.sx/e/8i1j8i1grq7j/I.E_Go_Chrono_Stone_45.mp4",
+              "__collections__": {}
+            },
+            "Chrono46": {
+              "next": "Chrono47",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/44/3144/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/54/3145/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E46 - ¡La identidad del Ayudante X!",
+              "idvideo": "https://filemoon.sx/e/j3wxfyujn7c8/I.E_Go_Chrono_Stone_46.mp4",
+              "__collections__": {}
+            },
+            "Chrono47": {
+              "next": "Chrono48",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/54/3145/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/64/3146/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E47 - ¡Todos reunidos! ¡El equipo más fuerte de la historia!",
+              "idvideo": "https://filemoon.sx/e/dlz88roo2ig9/I.E_Go_Chrono_Stone_47.mp4",
+              "__collections__": {}
+            },
+            "Chrono48": {
+              "next": "Chrono49",
+              "idvideo": "https://filemoon.sx/e/https://www.dailymotion.com/video/x7ssbu2",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/64/3146/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/74/3147/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E48 - ¡El poder de SARU!",
+              "__collections__": {}
+            },
+            "Chrono49": {
+              "next": "Chrono50",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/74/3147/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/84/3148/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E49 - ¡El violento ataque del Second Stage Children!",
+              "idvideo": "https://filemoon.sx/e/oeyb46ewdoxr/I.E_Go_Chrono_Stone_49.mp4",
+              "__collections__": {}
+            },
+            "Chrono50": {
+              "next": "Chrono51",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/84/3148/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/13/94/3149/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E50 - ¡El último salto en el tiempo!",
+              "idvideo": "https://filemoon.sx/e/jpdp59ohe19f/I.E_Go_Chrono_Stone_50.mp4",
+              "__collections__": {}
+            },
+            "Chrono51": {
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/13/94/3149/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/33/56233/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E51 - ¡Regresó el Fútbol!",
+              "next": "Galaxy01",
+              "idvideo": "https://filemoon.sx/e/fav4x0zxtk9c/I.E_Go_Chrono_Stone_51.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Explosivo": {
+        "fondo": "https://www.akibagamers.it/wp-content/uploads/2020/04/inazuma-eleven-1620x800.jpg",
+        "logo": "https://drive.google.com/uc?id=1aN5tZNBfzGrh6V4gbbXeGYodo99tBVoY&export=download",
+        "sinopsis": "El Inazuma Japan a clasificado a la fase principal del torneo, se encontraran con viejos amigos y personas que cambiaran la vida de Endou Mamoru para siempre.",
+        "__collections__": {
+          "episodes": {
+            "Explosivo01": {
+              "next": "Explosivo02",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/24/13742/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/44/13744/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E85 -  ¡Aquí estamos! ¡¡El torneo mundial!!",
+              "idvideo": "https://filemoon.sx/e/s3azunmnqbbx/085.mp4",
+              "__collections__": {}
+            },
+            "Explosivo02": {
+              "next": "Explosivo03",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/44/13744/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/54/13745/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E86 - ¡Shock! ¡¡Esto es el nivel mundial!!",
+              "idvideo": "https://filemoon.sx/e/jdu2k65ygqkt/086.mp4",
+              "__collections__": {}
+            },
+            "Explosivo03": {
+              "next": "Explosivo04",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/54/13745/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/74/13747/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E87 - ¡Los caballeros Ingleses! ¡Knights of Queen!",
+              "idvideo": "https://filemoon.sx/e/qzjaawyokhju/087.mp4",
+              "__collections__": {}
+            },
+            "Explosivo04": {
+              "next": "Explosivo05",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/74/13747/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/84/13748/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "Especial de una hora - ¡Puedes hacerlo, Inazuma Japan! ¡Apunta a ser el mejor del mundo!",
+              "idvideo": "https://filemoon.sx/e/rpxhb98il76e/088_y_089.mp4",
+              "__collections__": {}
+            },
+            "Explosivo05": {
+              "next": "Explosivo06",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/05/13750/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/25/13752/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E90 -  ¡La maldición del Teikoku - Acto I!",
+              "idvideo": "https://filemoon.sx/e/ec1305u4mumh/090.mp4",
+              "__collections__": {}
+            },
+            "Explosivo06": {
+              "next": "Explosivo07",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/25/13752/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/35/13753/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E91 - : ¡La maldición del Teikoku - Acto II!",
+              "idvideo": "https://filemoon.sx/e/2t0en3y3khs7/091.mp4",
+              "__collections__": {}
+            },
+            "Explosivo07": {
+              "next": "Explosivo08",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/35/13753/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/55/13755/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E92 -  ¡Que horror! ¡Otro Kidou!",
+              "idvideo": "https://filemoon.sx/e/k0ikld3dqbsj/092.mp4",
+              "__collections__": {}
+            },
+            "Explosivo08": {
+              "next": "Explosivo09",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/55/13755/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/75/13757/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E93 - ¡El enfrentamiento más poderoso! ¡Pingüinos contra Pingüinos!!",
+              "idvideo": "https://filemoon.sx/e/rl2nzgxnjzuf/093.mp4",
+              "__collections__": {}
+            },
+            "Explosivo09": {
+              "next": "Explosivo10",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/75/13757/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://i.ytimg.com/vi/PS-w4wOfycI/maxresdefault.jpg",
+              "nombre": "E94 - ¡La fortaleza omnipotente!",
+              "idvideo": "https://filemoon.sx/e/u39xe7ig6lwb/094.mp4",
+              "__collections__": {}
+            },
+            "Explosivo10": {
+              "next": "Explosivo11",
+              "imagen": "https://i.ytimg.com/vi/PS-w4wOfycI/maxresdefault.jpg",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/06/13760/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E95 - ¡Desesperación absoluta! ¿Inazuma Japan pierde?",
+              "idvideo": "https://filemoon.sx/e/95t0lmrwgupx/095.mp4",
+              "__collections__": {}
+            },
+            "Explosivo11": {
+              "next": "Explosivo12",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/06/13760/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/26/13762/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E96 - El secreto de Fuyupe",
+              "idvideo": "https://filemoon.sx/e/3fgek13wumqx/096.mp4",
+              "__collections__": {}
+            },
+            "Explosivo12": {
+              "next": "Explosivo13",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/26/13762/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/36/13763/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E97 - El último saque de Ichinose",
+              "idvideo": "https://filemoon.sx/e/6sj7fxlebf03/097.mp4",
+              "__collections__": {}
+            },
+            "Explosivo13": {
+              "next": "Explosivo14",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/36/13763/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/56/13765/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E98 - ¡Amistad total! ¡Ichinose contra Endou!",
+              "idvideo": "https://filemoon.sx/e/eia0st6jmlvx/098.mp4",
+              "__collections__": {}
+            },
+            "Explosivo14": {
+              "next": "Explosivo15",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/56/13765/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/76/13767/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E99 -  ¡La determinación del Fénix!",
+              "idvideo": "https://filemoon.sx/e/zsae1fnd2hhf/099.mp4",
+              "__collections__": {}
+            },
+            "Explosivo15": {
+              "next": "Explosivo16",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/76/13767/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/86/13768/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E100 - ¡Milagro! ¿El encuentro de un Kappa?",
+              "idvideo": "https://filemoon.sx/e/gv78w9pio7oq/100.mp4",
+              "__collections__": {}
+            },
+            "Explosivo16": {
+              "next": "Explosivo17",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/86/13768/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/07/13770/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E101 - ¡Qué Choque! ¡Tigre y Halcón!",
+              "idvideo": "https://filemoon.sx/e/a4hxicksjb39/101.mp4",
+              "__collections__": {}
+            },
+            "Explosivo17": {
+              "next": "Explosivo18",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/07/13770/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/27/13772/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E102 - ¡Recuerdos revividos! ¡La verdad sobre Fuyuka!",
+              "idvideo": "https://filemoon.sx/e/40demigixrm8/102.mp4",
+              "__collections__": {}
+            },
+            "Explosivo18": {
+              "next": "Explosivo19",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/27/13772/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/37/13773/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E103 -  ¡Casi en la fase final! ¡La decisión de Fideo!",
+              "idvideo": "https://filemoon.sx/e/cohnm7uaxl0k/103.mp4",
+              "__collections__": {}
+            },
+            "Explosivo19": {
+              "next": "Explosivo20",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/37/13773/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/57/13775/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E104 -  ¡La Táctica más poderosa! ¡Catenaccio Counter!",
+              "idvideo": "https://filemoon.sx/e/87e89ymfi6lc/104.mp4",
+              "__collections__": {}
+            },
+            "Explosivo20": {
+              "next": "Explosivo21",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/57/13775/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/77/13777/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E105 -  ¡Una lucha feroz! ¡Endou contra Fideo!!",
+              "idvideo": "https://filemoon.sx/e/edz7fl40993w/105.mp4",
+              "__collections__": {}
+            },
+            "Explosivo21": {
+              "next": "Explosivo22",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/77/13777/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/87/13778/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E106 - ¡La última eliminatoria de Reiji Kageyama!",
+              "idvideo": "https://filemoon.sx/e/nyf1oefr0mmr/106.mp4",
+              "__collections__": {}
+            },
+            "Explosivo22": {
+              "next": "Explosivo23",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/87/13778/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/08/13780/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E107 - ¡La última libreta del abuelo!",
+              "idvideo": "https://filemoon.sx/e/z7zesi08zwsx/107.mp4",
+              "__collections__": {}
+            },
+            "Explosivo23": {
+              "next": "Explosivo24",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/08/13780/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/18/13781/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E108 -  ¡La leyenda de la Isla Liocott!",
+              "idvideo": "https://filemoon.sx/e/1qqyzyou4hb6/108.mp4",
+              "__collections__": {}
+            },
+            "Explosivo24": {
+              "next": "Explosivo25",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/18/13781/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/38/13783/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E109 - ¡Los mensajeros del cielo!",
+              "idvideo": "https://filemoon.sx/e/utcajz46s3ed/109.mp4",
+              "__collections__": {}
+            },
+            "Explosivo25": {
+              "next": "Explosivo26",
+              "idvideo": "https://filemoon.sx/e/https://filemoon.sx/d/8dy5eqdglvcu/110.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/38/13783/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/58/13785/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E110 - ¡Los guardianes del infierno Z!",
+              "__collections__": {}
+            },
+            "Explosivo26": {
+              "next": "Explosivo27",
+              "idvideo": "https://filemoon.sx/e/ephhwps1cmvq/111.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/58/13785/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://i.ytimg.com/vi/HRVtTIbV8nw/maxresdefault.jpg",
+              "nombre": "E111 - Descenso del Señor Demonio! ¡Dark Angel!",
+              "__collections__": {}
+            },
+            "Explosivo27": {
+              "next": "Explosivo28",
+              "idvideo": "https://filemoon.sx/e/8jmskzuerqik/112.mp4",
+              "imagen": "https://i.ytimg.com/vi/HRVtTIbV8nw/maxresdefault.jpg",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/88/13788/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E112 -  La oscuridad de The Kingdom",
+              "__collections__": {}
+            },
+            "Explosivo28": {
+              "next": "Explosivo29",
+              "idvideo": "https://filemoon.sx/e/06ba2dnboqdo/113.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/88/13788/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/09/13790/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E113 -  La conspiración de Garshield",
+              "__collections__": {}
+            },
+            "Explosivo29": {
+              "next": "Explosivo30",
+              "idvideo": "https://filemoon.sx/e/kph1dwtey2tq/114.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/09/13790/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/19/13791/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E114 - Inazuma Japan contra The Kingdom",
+              "__collections__": {}
+            },
+            "Explosivo30": {
+              "next": "Explosivo31",
+              "idvideo": "https://filemoon.sx/e/02b0g7boyfga/115.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/19/13791/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/39/13793/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E115 - ¡Contraataque del reino del fútbol!",
+              "__collections__": {}
+            },
+            "Explosivo31": {
+              "next": "Explosivo32",
+              "idvideo": "https://filemoon.sx/e/4hqhoa1ph9z2/116.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/39/13793/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/59/13795/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E116 - ¡Maravilla! ¡Little Giant!",
+              "__collections__": {}
+            },
+            "Explosivo32": {
+              "next": "Explosivo33",
+              "idvideo": "https://filemoon.sx/e/https://filemoon.sx/d/jboag5y33g7n/117.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/59/13795/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/69/13796/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E117 -  ¡El ataque de los humanos reforzados definitivos!",
+              "__collections__": {}
+            },
+            "Explosivo33": {
+              "next": "Explosivo34",
+              "idvideo": "https://filemoon.sx/e/i6h8o78lk4n5/118.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/69/13796/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/89/13798/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E118 - ¡El temible Team Garshield!",
+              "__collections__": {}
+            },
+            "Explosivo34": {
+              "next": "Explosivo35",
+              "idvideo": "https://filemoon.sx/e/cu3993bezt93/119.mp4",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/89/13798/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/83/10/13801/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E119 - ¡El rival más poderoso!",
+              "__collections__": {}
+            },
+            "Explosivo35": {
+              "next": "Explosivo36",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/83/10/13801/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/83/20/13802/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E120 - ¡El intenso entrenamiento amistoso de Fideo!",
+              "idvideo": "https://filemoon.sx/e/9vjn1r02zp44/120.mp4",
+              "__collections__": {}
+            },
+            "Explosivo36": {
+              "next": "Explosivo37",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/83/20/13802/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/83/40/13804/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E121 - ¡Para los mejores del mundo! ¡Los once lemas!",
+              "idvideo": "https://filemoon.sx/e/0hpj8n57asi0/121.mp4",
+              "__collections__": {}
+            },
+            "Explosivo37": {
+              "next": "Explosivo38",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/83/40/13804/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/83/60/13806/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E122 -  ¡La batalla final del Inazuma Japan!",
+              "idvideo": "https://filemoon.sx/e/g1g2406u20cg/122.mp4",
+              "__collections__": {}
+            },
+            "Explosivo38": {
+              "next": "Explosivo39",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/83/60/13806/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://s1.dmcdn.net/v/UCkEE1Z8eRn7sPHZz/x1080",
+              "nombre": "E123 - ¡La batalla decisiva! ¡¡Little Giant!! - Primer Tiempo",
+              "idvideo": "https://filemoon.sx/e/h4cirkl2ri3u/123.mp4",
+              "__collections__": {}
+            },
+            "Explosivo39": {
+              "next": "Explosivo40",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/83/90/13809/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E124 - ¡La batalla decisiva! ¡¡Little Giant!! - Segundo Tiempo",
+              "imagen": "https://s1.dmcdn.net/v/UCkEE1Z8eRn7sPHZz/x1080",
+              "idvideo": "https://filemoon.sx/e/ifrhsuu4br8k/124.mp4",
+              "__collections__": {}
+            },
+            "Explosivo40": {
+              "next": "Explosivo41",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/83/90/13809/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/83/11/13811/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E125 - ¡Una realidad por fin! ¡¡Los mejores del mundo!!",
+              "idvideo": "https://filemoon.sx/e/kjpeilbh55x1/125.mp4",
+              "__collections__": {}
+            },
+            "Explosivo41": {
+              "next": "Explosivo42",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/83/11/13811/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/83/31/13813/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E126 - ¡Lagrimas en la ceremonia de graduación!",
+              "idvideo": "https://filemoon.sx/e/jm2s4oc7rgob/126.mp4",
+              "__collections__": {}
+            },
+            "Explosivo42": {
+              "next": "GO01",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/83/31/13813/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/15/3051/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E127 -  ¡Un saque hacia el mañana!",
+              "idvideo": "https://filemoon.sx/e/h613niw7qrgg/127.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Fuego": {
+        "logo": "https://drive.google.com/uc?id=1VD6q6djQnIzc8kdNXBe4RTOabsBwKd6G&export=download",
+        "fondo": "https://3.bp.blogspot.com/-SMqL-6WxktU/XGWHIpTTbPI/AAAAAAAACuE/WybeyoXJMUMi4ehG0PcK74dIuWmM1DydACLcBGAs/d/inazuma%2Bblogger%2Botaku.jpg",
+        "sinopsis": "Con Goenji de regreso al equipo, el mejor equipo del planeta se prepara para enfrentarse a los equipos mas poderosos de la Aliea Gakuen.",
+        "__collections__": {
+          "episodes": {
+            "Fuego01": {
+              "next": "Fuego02",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/09/13590/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/19/13591/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E52 - ¡La explosiva resurrección del fuego!",
+              "idvideo": "https://filemoon.sx/e/3b0mxsos0vb2/052.mp4",
+              "__collections__": {}
+            },
+            "Fuego02": {
+              "next": "Fuego03",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/19/13591/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/29/13592/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E53 - ¡La oscuridad gélida del Diamond Dust!",
+              "idvideo": "https://filemoon.sx/e/x9kg2qp9slg5/053.mp4",
+              "__collections__": {}
+            },
+            "Fuego03": {
+              "next": "Fuego04",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/29/13592/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/39/13593/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E54 - ¡El aliado más poderoso, Aphrodi!",
+              "idvideo": "https://filemoon.sx/e/1p3w1j6vsd8d/054.mp4",
+              "__collections__": {}
+            },
+            "Fuego04": {
+              "next": "Fuego05",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/39/13593/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/49/13594/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E55 - ¡El nuevo desafío de Endou!",
+              "idvideo": "https://filemoon.sx/e/1mdyk5sdx88e/055.mp4",
+              "__collections__": {}
+            },
+            "Fuego05": {
+              "next": "Fuego06",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/49/13594/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/59/13595/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E56 - ¡Confrontación! ¡Endou contra Goenji!",
+              "idvideo": "https://filemoon.sx/e/p04a1tfaw1ef/056.mp4",
+              "__collections__": {}
+            },
+            "Fuego06": {
+              "next": "Fuego07",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/59/13595/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/69/13596/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E57 -  ¡Caos, el equipo milagroso!",
+              "idvideo": "https://filemoon.sx/e/tcp7a3ab9m9t/057.mp4",
+              "__collections__": {}
+            },
+            "Fuego07": {
+              "next": "Fuego08",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/69/13596/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/79/13597/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E58 - ¡Explota, Fire Blizzard!",
+              "idvideo": "https://filemoon.sx/e/ixvzzid3xlnu/058.mp4",
+              "__collections__": {}
+            },
+            "Fuego08": {
+              "next": "Fuego09",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/79/13597/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/89/13598/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E59 - ¡Por fin estamos aquí, Ailea Gakuen!",
+              "idvideo": "https://filemoon.sx/e/9qozzchrs3i2/059.mp4",
+              "__collections__": {}
+            },
+            "Fuego09": {
+              "next": "Fuego10",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/89/13598/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/99/13599/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E60 - ¡La verdadera identidad del Ailea Gakuen!",
+              "idvideo": "https://filemoon.sx/e/u0bpjrrlbqiu/060.mp4",
+              "__collections__": {}
+            },
+            "Fuego10": {
+              "next": "Fuego11",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/99/13599/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/63/00/13600/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E61 - La batalla final con Génesis 1ª Parte",
+              "idvideo": "https://filemoon.sx/e/ukux1wvbuht7/061.mp4",
+              "__collections__": {}
+            },
+            "Fuego11": {
+              "next": "Fuego12",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/63/00/13600/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/63/10/13601/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E62 - La batalla final con Génesis 2ª Parte",
+              "idvideo": "https://filemoon.sx/e/dxc4tj50gcvq/062.mp4",
+              "__collections__": {}
+            },
+            "Fuego12": {
+              "next": "Fuego13",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/63/10/13601/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/63/20/13602/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E63 - ¡La amenaza sin fin!",
+              "idvideo": "https://filemoon.sx/e/l4ga4kciy52g/063.mp4",
+              "__collections__": {}
+            },
+            "Fuego13": {
+              "next": "Fuego14",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/63/20/13602/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/63/30/13603/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E64 - ¡Encuentro! ¡Raimon contra Raimon!",
+              "idvideo": "https://filemoon.sx/e/pbqbgjlosuwh/064.mp4",
+              "__collections__": {}
+            },
+            "Fuego14": {
+              "next": "Fuego15",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/63/30/13603/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/63/40/13604/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E65 -  La Técnica Secreta De La Amistad",
+              "idvideo": "https://filemoon.sx/e/p95chpamc466/065.mp4",
+              "__collections__": {}
+            },
+            "Fuego15": {
+              "next": "Fuego16",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/63/40/13604/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/63/50/13605/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E66 -  ¡El Equipo más fuerte de la historia! ¡Versión de la Ventisca Eterna!",
+              "idvideo": "https://filemoon.sx/e/3pyymowhk34f/066.mp4",
+              "__collections__": {}
+            },
+            "Fuego16": {
+              "next": "Rayo01",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/63/50/13605/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/51/13715/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E67 - ¡El Equipo más fuerte de la historia! ¡Versión de la Tormenta de Fuego!",
+              "idvideo": "https://filemoon.sx/e/gsnrg124m9ua/067.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Galaxy": {
+        "logo": "https://i.imgur.com/z6Djl7s.png",
+        "fondo": "https://i.imgur.com/sPpqA6g.png",
+        "sinopsis": " Se anuncia el torneo mundial Fútbol Frontier Internacional Visión 2 y los equipos que han participado en el Camino Imperial se reúnen en el Estadio Camino Imperial con el fin de ser elegidos para representar a Japón.",
+        "__collections__": {
+          "episodes": {
+            "Galaxy01": {
+              "next": "Galaxy02",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/33/56233/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/43/56234/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E01 - ¡El Peor Inazuma Japan!",
+              "idvideo": "https://filemoon.sx/e/ebbpqd20nymm/Inazuma_Eleven_Go_Galaxy_01.mp4",
+              "__collections__": {}
+            },
+            "Galaxy02": {
+              "next": "Galaxy03",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/43/56234/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/53/56235/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E02 -  ¡Las nubes negras desaparecen! ¡Empieza el campeonato Mundial!",
+              "idvideo": "https://filemoon.sx/e/ah5d5ztcx7a2/Inazuma_Eleven_Go_Galaxy_02.mp4",
+              "__collections__": {}
+            },
+            "Galaxy03": {
+              "next": "Galaxy04",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/53/56235/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/63/56236/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E03 - Un pequeño cambio",
+              "idvideo": "https://filemoon.sx/e/lo3waz0mml4p/Inazuma_Eleven_Go_Galaxy_03.mp4",
+              "__collections__": {}
+            },
+            "Galaxy04": {
+              "next": "Galaxy05",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/63/56236/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/73/56237/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E04 -  El misterio de la creación del equipo",
+              "idvideo": "https://filemoon.sx/e/4dy562xpo2h3/Inazuma_Eleven_Go_Galaxy_04.mp4",
+              "__collections__": {}
+            },
+            "Galaxy05": {
+              "next": "Galaxy06",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/73/56237/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/83/56238/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E05 - La prueba de retirada del Inazuma Japan",
+              "idvideo": "https://filemoon.sx/e/k8busw0v3bin/Inazuma_Eleven_Go_Galaxy_05.mp4",
+              "__collections__": {}
+            },
+            "Galaxy06": {
+              "next": "Galaxy07",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/83/56238/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/93/56239/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E06 - Un enemigo dentro del equipo!",
+              "idvideo": "https://filemoon.sx/e/syufh4ipdzip/Inazuma_Eleven_Go_Galaxy_06.mp4",
+              "__collections__": {}
+            },
+            "Galaxy07": {
+              "next": "Galaxy08",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/93/56239/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/04/56240/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E07 - ¡Juguemos un fútbol divertido!",
+              "idvideo": "https://filemoon.sx/e/jd0q2vp60qfq/Inazuma_Eleven_Go_Galaxy_07.mp4",
+              "__collections__": {}
+            },
+            "Galaxy08": {
+              "next": "Galaxy09",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/04/56240/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/14/56241/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E08 - Las dos caras de Kusaka",
+              "idvideo": "https://filemoon.sx/e/6janajkrfdh4/Inazuma_Eleven_Go_Galaxy_08.mp4",
+              "__collections__": {}
+            },
+            "Galaxy09": {
+              "next": "Galaxy10",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/14/56241/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/24/56242/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E09 - ¡Las lágrimas del emperador!",
+              "idvideo": "https://filemoon.sx/e/kc9cguv330er/Inazuma_Eleven_Go_Galaxy_09.mp4",
+              "__collections__": {}
+            },
+            "Galaxy10": {
+              "next": "Galaxy11",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/24/56242/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/34/56243/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E10 - ¡¡Entrenamiento en el cuarto Oscuro!!",
+              "idvideo": "https://filemoon.sx/e/h5f6am6x2eel/Inazuma_Eleven_Go_Galaxy_10.mp4",
+              "__collections__": {}
+            },
+            "Galaxy11": {
+              "next": "Galaxy12",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/34/56243/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/44/56244/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E11 - Odio a mi Persona",
+              "idvideo": "https://filemoon.sx/e/rvu1hs2i8uj7/Inazuma_Eleven_Go_Galaxy_11.mp4",
+              "__collections__": {}
+            },
+            "Galaxy12": {
+              "next": "Galaxy13",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/44/56244/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/54/56245/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E12 - Confesiones en el Campo",
+              "idvideo": "https://filemoon.sx/e/c0rbnmxtd65u/Inazuma_Eleven_Go_Galaxy_12.mp4",
+              "__collections__": {}
+            },
+            "Galaxy13": {
+              "next": "Galaxy14",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/54/56245/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/64/56246/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E13 - La clave de la victoria",
+              "idvideo": "https://filemoon.sx/e/t3g5rcg3ta94/Inazuma_Eleven_Go_Galaxy_13.mp4",
+              "__collections__": {}
+            },
+            "Galaxy14": {
+              "next": "Galaxy15",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/64/56246/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/74/56247/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E14 - El Asalto de la Resistance Japan",
+              "idvideo": "https://filemoon.sx/e/oke5064ls6u8/Inazuma_Eleven_Go_Galaxy_14.mp4",
+              "__collections__": {}
+            },
+            "Galaxy15": {
+              "next": "Galaxy16",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/74/56247/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/84/56248/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E15 -  Una feroz batalla! ¡El desafío al Mundial!",
+              "idvideo": "https://filemoon.sx/e/86f50m6i54kh/Inazuma_Eleven_Go_Galaxy_15.mp4",
+              "__collections__": {}
+            },
+            "Galaxy16": {
+              "next": "Galaxy17",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/84/56248/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/94/56249/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E16 - ¡El poder de la Confianza y la Unión!",
+              "idvideo": "https://filemoon.sx/e/ij9fmp1rr0uh/Inazuma_Eleven_Go_Galaxy_16.mp4",
+              "__collections__": {}
+            },
+            "Galaxy17": {
+              "next": "Galaxy18",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/94/56249/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/05/56250/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E17 -  El Fin y el Inicio de una nueva Batalla",
+              "idvideo": "https://filemoon.sx/e/bvel1dp2xdx9/Inazuma_Eleven_Go_Galaxy_17.mp4",
+              "__collections__": {}
+            },
+            "Galaxy18": {
+              "next": "Galaxy19",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/05/56250/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/15/56251/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E18 -  Un visitante",
+              "idvideo": "https://filemoon.sx/e/vv7prm12mne5/Inazuma_Eleven_Go_Galaxy_18.mp4",
+              "__collections__": {}
+            },
+            "Galaxy19": {
+              "next": "Galaxy20",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/15/56251/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/25/56252/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E19 - ¡Vamos al espacio!",
+              "idvideo": "https://filemoon.sx/e/pni6sgs7jdwl/Inazuma_Eleven_Go_Galaxy_19.mp4",
+              "__collections__": {}
+            },
+            "Galaxy20": {
+              "next": "Galaxy21",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/25/56252/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/35/56253/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E20 - ¡Llegando a la estrella de Arena!",
+              "idvideo": "https://filemoon.sx/e/38mhfy5bqtqi/Inazuma_Eleven_Go_Galaxy_20.mp4",
+              "__collections__": {}
+            },
+            "Galaxy21": {
+              "next": "Galaxy22",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/35/56253/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/45/56254/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E21 - ¡Alboroto en el cuarto oscuro!",
+              "idvideo": "https://filemoon.sx/e/ba1wjtenoe1a/Inazuma_Eleven_Go_Galaxy_21.mp4",
+              "__collections__": {}
+            },
+            "Galaxy22": {
+              "next": "Galaxy23",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/45/56254/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/55/56255/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E22 - ¡Choque! ¡Fútbol Espacial!",
+              "idvideo": "https://filemoon.sx/e/zgbpzyruugwk/Inazuma_Eleven_Go_Galaxy_22.mp4",
+              "__collections__": {}
+            },
+            "Galaxy23": {
+              "next": "Galaxy24",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/55/56255/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/65/56256/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E23 - ¡Aparecen las Souls!",
+              "idvideo": "https://filemoon.sx/e/z343tcrh7ps1/Inazuma_Eleven_Go_Galaxy_23.mp4",
+              "__collections__": {}
+            },
+            "Galaxy24": {
+              "next": "Galaxy25",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/65/56256/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/75/56257/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E24 - ¡Los Guerreros de la estrella de agua!",
+              "idvideo": "https://filemoon.sx/e/i65gh8le87df/Inazuma_Eleven_Go_Galaxy_24.mp4",
+              "__collections__": {}
+            },
+            "Galaxy25": {
+              "next": "Galaxy26",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/75/56257/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/85/56258/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E25 - ¡La oscuridad de Hayato Matatagi!",
+              "idvideo": "https://filemoon.sx/e/tbvjxe5j4teq/Inazuma_Eleven_Go_Galaxy_25.mp4",
+              "__collections__": {}
+            },
+            "Galaxy26 ": {
+              "next": "Galaxy27",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/85/56258/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/95/56259/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E26  -  ¡¡El despertar de mi lado Oscuro!!",
+              "idvideo": "https://filemoon.sx/e/vmn0j3awrkib/Inazuma_Eleven_Go_Galaxy_26.mp4",
+              "__collections__": {}
+            },
+            "Galaxy27": {
+              "next": "Galaxy28",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/95/56259/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/06/56260/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E27 -  ¡El autogol de Minaho!",
+              "idvideo": "https://filemoon.sx/e/ayy5cs8er5ds/Inazuma_Eleven_Go_Galaxy_27.mp4",
+              "__collections__": {}
+            },
+            "Galaxy28": {
+              "next": "Galaxy29",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/06/56260/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/16/56261/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E28 -  ¡El ardiente planeta Gurdon!",
+              "idvideo": "https://filemoon.sx/e/pfkpbcmy0j9i/Inazuma_Eleven_Go_Galaxy_28.mp4",
+              "__collections__": {}
+            },
+            "Galaxy29": {
+              "next": "Galaxy30",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/16/56261/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/26/56262/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E29 -  Los Guerreros que abandonaron sus Alas",
+              "idvideo": "https://filemoon.sx/e/ssjbl53m2oy7/Inazuma_Eleven_Go_Galaxy_29.mp4",
+              "__collections__": {}
+            },
+            "Galaxy30": {
+              "next": "Galaxy31",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/26/56262/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/36/56263/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E30 -  ¡Un intenso Contrarremate!",
+              "idvideo": "https://filemoon.sx/e/2nsw77kpg6zb/Inazuma_Eleven_Go_Galaxy_30.mp4",
+              "__collections__": {}
+            },
+            "Galaxy31": {
+              "next": "Galaxy32",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/36/56263/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/46/56264/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E31 - ¡Almas dobles! ¡Ibuki y Shindo!",
+              "idvideo": "https://filemoon.sx/e/nhr8dzd2n5a2/Inazuma_Eleven_Go_Galaxy_31.mp4",
+              "__collections__": {}
+            },
+            "Galaxy32": {
+              "next": "Galaxy33",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/46/56264/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/56/56265/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E32 - ¡El Planeta Verde, Ratonik!",
+              "idvideo": "https://filemoon.sx/e/ufghg9ae0z0j/Inazuma_Eleven_Go_Galaxy_32.mp4",
+              "__collections__": {}
+            },
+            "Galaxy33": {
+              "next": "Galaxy34",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/56/56265/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/66/56266/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E33 - ¡Tiempo Limitado! ¡¡Amistad Eterna!!",
+              "idvideo": "https://filemoon.sx/e/pcn7b5ne4qwo/Inazuma_Eleven_Go_Galaxy_33.mp4",
+              "__collections__": {}
+            },
+            "Galaxy34": {
+              "next": "Galaxy35",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/66/56266/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/76/56267/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E34 -  ¡El tiro furioso con Lágrimas!",
+              "idvideo": "https://filemoon.sx/e/4bp0047810ca/Inazuma_Eleven_Go_Galaxy_34.mp4",
+              "__collections__": {}
+            },
+            "Galaxy35": {
+              "next": "Galaxy36",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/76/56267/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/86/56268/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E35 - Los fragmentos de la Esperanza",
+              "idvideo": "https://filemoon.sx/e/4pavltpt7ow5/Inazuma_Eleven_Go_Galaxy_35.mp4",
+              "__collections__": {}
+            },
+            "Galaxy36": {
+              "next": "Galaxy37",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/86/56268/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/96/56269/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E36 -  ¡La desgracia definitiva! ¡¡El nacimiento del Ixal Fleet!!",
+              "idvideo": "https://filemoon.sx/e/o0sl180t7m5a/Inazuma_Eleven_Go_Galaxy_36.mp4",
+              "__collections__": {}
+            },
+            "Galaxy37": {
+              "next": "Galaxy38",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/96/56269/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/07/56270/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E37 - Las Finales! Faram Dite!!",
+              "idvideo": "https://filemoon.sx/e/td0aenwxvfsr/Inazuma_Eleven_Go_Galaxy_37.mp4",
+              "__collections__": {}
+            },
+            "Galaxy38": {
+              "next": "Galaxy39",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/07/56270/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/17/56271/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E38 - ¡Tenma contra Tsugugi!",
+              "idvideo": "https://filemoon.sx/e/unybhnyqwi24/Inazuma_Eleven_Go_Galaxy_38.mp4",
+              "__collections__": {}
+            },
+            "Galaxy39": {
+              "next": "Galaxy40",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/17/56271/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/27/56272/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E39 - ¡Volaré con mi Soul!",
+              "idvideo": "https://filemoon.sx/e/m0c47h9ddyoa/Inazuma_Eleven_Go_Galaxy_39.mp4",
+              "__collections__": {}
+            },
+            "Galaxy40": {
+              "next": "Galaxy41",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/27/56272/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/37/56273/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E40 - ¡Nuestra Batalla Final!",
+              "idvideo": "https://filemoon.sx/e/hj3e2p4x5qxr/Inazuma_Eleven_Go_Galaxy_40.mp4",
+              "__collections__": {}
+            },
+            "Galaxy41": {
+              "next": "Galaxy42",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/37/56273/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/47/56274/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E41 - ¡Souls en descontrol!",
+              "idvideo": "https://filemoon.sx/e/1wgbhhvja9iy/Inazuma_Eleven_Go_Galaxy_41.mp4",
+              "__collections__": {}
+            },
+            "Galaxy42": {
+              "next": "Galaxy43",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/47/56274/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/26/57/56275/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E42 - ¡Tormenta, Tornado, Huracán!",
+              "idvideo": "https://filemoon.sx/e/yselmj7apcc8/Inazuma_Eleven_Go_Galaxy_42.mp4",
+              "__collections__": {}
+            },
+            "Galaxy43": {
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/26/57/56275/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/42/3024/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E43 - ¡El último tiro! ¡¡Vuela hacia el Mañana!!",
+              "next": "Original01",
+              "idvideo": "https://filemoon.sx/e/07c2911tmi37/_UnH__Inazuma_Eleven_GO-_Galaxy_-_Capitulo_43_-_HD_Sub_Espa_ol_-_V_deo_Dailymotion.ts",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Go": {
+        "fondo": "https://images.pluto.tv/series/611e7e13d91ff50013c301b4/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=70&w=1600&auto=&ixlib=react-9.1.5",
+        "logo": "https://drive.google.com/uc?id=1XRH5ewBVZIdRgNR7QeORb2ingv-7S96u&export=download",
+        "sinopsis": "Han pasado 10 años desde la final del TFI. El fútbol ahora es controlado por una misteriosa organización llamada \"Sector Quinto\", convirtiendo este deporte en oscuras y violentas batallas,y que además arregla los partidos. Para la gente, el fútbol ya no tiene esperanza.",
+        "__collections__": {
+          "episodes": {
+            "Go01": {
+              "next": "Go02",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/15/3051/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/25/3052/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E01 - ¡Sopla el nuevo viento del Raimon!",
+              "idvideo": "https://filemoon.sx/e/nt5xhbchfrnr/Inazuma_Eleven_GO-001__Uta_no_Hime___1_.mp4",
+              "__collections__": {}
+            },
+            "Go02": {
+              "next": "Go03",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/25/3052/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/35/3053/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E02 - ¡Esto es un Espíritu Guerrero!",
+              "idvideo": "https://filemoon.sx/e/0tchjd9uk4bu/Inazuma_Eleven_GO-002__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go03": {
+              "next": "Go04",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/35/3053/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/45/3054/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E03 - ¡Colapso! ¡¡El club de fútbol del Raimon!!",
+              "idvideo": "https://filemoon.sx/e/q6qx17e39f6s/Inazuma_Eleven_GO-003__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go04": {
+              "next": "Go05",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/45/3054/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/55/3055/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E04 - ¡El examen de ingreso de Tenma!",
+              "idvideo": "https://filemoon.sx/e/rizq55cv7aa0/Inazuma_Eleven_GO-004__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go05": {
+              "next": "Go06",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/55/3055/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/65/3056/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E05 -  El juego arreglado",
+              "idvideo": "https://filemoon.sx/e/krn2h19wsl4j/Inazuma_Eleven_GO-005__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go06": {
+              "next": "Go07",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/65/3056/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/75/3057/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E06 - Los sentimientos puestos en el último pase",
+              "idvideo": "https://filemoon.sx/e/m6bpzrdnpqyh/Inazuma_Eleven_GO-006__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go07": {
+              "next": "Go08",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/75/3057/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/85/3058/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E07 - ¡¡El entrenador Endo hace su aparición!!",
+              "idvideo": "https://filemoon.sx/e/8o4frlpnputv/Inazuma_Eleven_GO-007__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go08": {
+              "next": "Go09",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/85/3058/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/95/3059/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E08 - ¡Las cualidades de un capitán!",
+              "idvideo": "https://filemoon.sx/e/7gfxpxj85wb9/Inazuma_Eleven_GO-008__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go09": {
+              "next": "Go10",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/95/3059/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/06/3060/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E09 - ¡Finalmente se levanta las cortinas! ¡¡Holy Road!!",
+              "idvideo": "https://filemoon.sx/e/p8pk3mll3h99/Inazuma_Eleven_GO-009__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go10": {
+              "next": "Go11",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/06/3060/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/16/3061/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E10 - ¡Rebelión hacia la victoria!",
+              "idvideo": "https://filemoon.sx/e/2c628cc02yyp/Inazuma_Eleven_GO-010__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go11": {
+              "next": "Go12",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/16/3061/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/26/3062/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E11 - El secreto de Tsurugi",
+              "idvideo": "https://filemoon.sx/e/epm210gvqaab/Inazuma_Eleven_GO-011__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go12": {
+              "next": "Go13",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/26/3062/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/36/3063/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E12 - ¡Los magníficos Espiritus Guerreros del equipo Mannozaka!",
+              "idvideo": "https://filemoon.sx/e/fyju9pqbef68/Inazuma_Eleven_GO-012__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go13": {
+              "next": "Go14",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/36/3063/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/46/3064/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E13 - ¡¿El despertar del Raimon?!",
+              "idvideo": "https://filemoon.sx/e/1b77r82tfztd/Inazuma_Eleven_GO-013__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go14": {
+              "next": "Go15",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/46/3064/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/56/3065/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E14 -  ¡La Técnica Hissatsu de Shinsuke!",
+              "idvideo": "https://filemoon.sx/e/jh8kchyt1lr6/Inazuma_Eleven_GO-014__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go15": {
+              "next": "Go16",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/56/3065/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/66/3066/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E15 -  ¡La reunión con Yuto Kido!",
+              "idvideo": "https://filemoon.sx/e/avxzajshyrd9/Inazuma_Eleven_GO-015__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go16": {
+              "next": "Go17",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/66/3066/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/76/3067/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E16 - ¡De pelos de punta! ¡Teikoku Gakuen!",
+              "idvideo": "https://filemoon.sx/e/p7rz5sc8jpyg/Inazuma_Eleven_GO-016__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go17": {
+              "next": "Go18",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/76/3067/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/86/3068/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E17 - ¡Explota! ¡Ultimate Thunder!",
+              "idvideo": "https://filemoon.sx/e/blkp16wvonrs/Inazuma_Eleven_GO-017__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go18": {
+              "next": "Go19",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/86/3068/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/96/3069/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E18 - ¡Agita el viento!",
+              "idvideo": "https://filemoon.sx/e/e2sxhdbl7n5q/Inazuma_Eleven_GO-018__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go19": {
+              "next": "Go20",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/96/3069/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/07/3070/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E19 -  Los colmillos furiosos de los reyes del mar",
+              "idvideo": "https://filemoon.sx/e/r5l0o4llzk50/Inazuma_Eleven_GO-019__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go20": {
+              "next": "Go21",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/07/3070/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/17/3071/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E20 - ¡Vuela! ¡El Keshin de Tenma!",
+              "idvideo": "https://filemoon.sx/e/wj1xl3ffv65f/Inazuma_Eleven_GO-020__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go21": {
+              "next": "Go22",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/17/3071/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/27/3072/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E21 -  ¡El equipo Akizora Challengers!",
+              "idvideo": "https://filemoon.sx/e/9vmasmrvso5o/Inazuma_Eleven_GO-021__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go22": {
+              "next": "Go23",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/27/3072/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/27/3072/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E22 - ¡A tomar la bandera de la revolución!",
+              "idvideo": "https://filemoon.sx/e/rbrmmh9a7axg/Inazuma_Eleven_GO-022__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go23": {
+              "next": "Go24",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/37/3073/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/47/3074/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E23 - ¡El terrorífico Estadio Ciclón!",
+              "idvideo": "https://filemoon.sx/e/amboyveu5xyy/Inazuma_Eleven_GO-023__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go24": {
+              "next": "Go25",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/47/3074/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/57/3075/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E24 - ¡Nuestro fútbol revive!",
+              "idvideo": "https://filemoon.sx/e/qhrr5vdmo1gw/Inazuma_Eleven_GO-024__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go25": {
+              "next": "Go26",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/57/3075/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/67/3076/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E25 - ¡\"Él\" está de regreso!",
+              "idvideo": "https://filemoon.sx/e/4qp5os5f5yeh/Inazuma_Eleven_GO-025__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go26": {
+              "next": "Go27",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/67/3076/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/77/3077/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E26 -  ¡El inminente demonio blanco!",
+              "idvideo": "https://filemoon.sx/e/gm4bj3gcqy2i/Inazuma_Eleven_GO-026__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go27": {
+              "next": "Go28",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/77/3077/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/87/3078/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E27 - ¡La batalla sobre hielo contra el Hakuren!",
+              "idvideo": "https://filemoon.sx/e/17vlidtu3huc/Inazuma_Eleven_GO-027__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go28": {
+              "next": "Go29",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/87/3078/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/97/3079/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E28 - El asunto del entrenador Kido",
+              "idvideo": "https://filemoon.sx/e/pv4abajrt73a/Inazuma_Eleven_GO-028__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go29": {
+              "next": "Go30",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/97/3079/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/08/3080/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E29 - ¡El enfrentamiento predestinado! ¡Kidokawa Seishu!",
+              "idvideo": "https://filemoon.sx/e/l56gj0hby5vl/Inazuma_Eleven_GO-029__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go30": {
+              "next": "Go31",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/08/3080/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/18/3081/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E30 - ¡Las magníficas tácticas! ¡Kido contra Aphrodi!",
+              "idvideo": "https://filemoon.sx/e/z335ca2g8o7m/Inazuma_Eleven_GO-030__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go31": {
+              "next": "Go32",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/18/3081/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/28/3082/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E31 - ¡Aparece el Keshin! ¡¡Sengoku Bushin Musashi!!",
+              "idvideo": "https://filemoon.sx/e/iucd7b64wl57/Inazuma_Eleven_GO-031__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go32": {
+              "next": "Go33",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/28/3082/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/38/3083/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "32 - El milagro del viento de la revolución",
+              "idvideo": "https://filemoon.sx/e/5t8dokufcxmv/Inazuma_Eleven_GO-032__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go33": {
+              "next": "Go34",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/38/3083/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/48/3084/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E33 - ¡Un misterioso enemigo! ¡Genei Gakuen!",
+              "idvideo": "https://filemoon.sx/e/mgo0u2lmp07l/Inazuma_Eleven_GO-033__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go34": {
+              "next": "Go35",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/48/3084/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/58/3085/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E34 - ¡El imparable Maboroshi Shot!",
+              "idvideo": "https://filemoon.sx/e/him4933buxnu/Inazuma_Eleven_GO-034__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go35": {
+              "next": "Go36",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/58/3085/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/68/3086/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E35 - ¡Una orden inesperada! ¡¡un cambio de portero!!",
+              "idvideo": "https://filemoon.sx/e/6mto1gf724bm/Inazuma_Eleven_GO-035__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go36": {
+              "next": "Go37",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/68/3086/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/78/3087/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E36 -  ¡La reunión destinada!",
+              "idvideo": "https://filemoon.sx/e/sun8qjwcanbe/Inazuma_Eleven_GO-036__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go37": {
+              "next": "Go38",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/78/3087/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/88/3088/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E37 -  ¡Un genio de cristal!",
+              "idvideo": "https://filemoon.sx/e/jvu19qznmb1y/Inazuma_Eleven_GO-037__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go38": {
+              "next": "Go39",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/88/3088/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/98/3089/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E38 - ¡El desatado Keshin de Taiyo!",
+              "idvideo": "https://filemoon.sx/e/2hdsw3r5hfqs/Inazuma_Eleven_GO-038__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go39": {
+              "next": "Go40",
+              "idvideo": "https://filemoon.sx/e/https://www.dailymotion.com/video/x7scxkc",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/98/3089/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/09/3090/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E39 - ¡Tenma contra Taiyo!",
+              "__collections__": {}
+            },
+            "Go40": {
+              "next": "Go41",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/09/3090/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/19/3091/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E40 - ¡El nuevo capitán Tenma Matsukaze!",
+              "idvideo": "https://filemoon.sx/e/fra1pfneuaho/Inazuma_Eleven_GO-040__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go41": {
+              "next": "Go42",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/19/3091/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/29/3092/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E41 - ¡La batalla en el Estadio Amano Mikado!",
+              "idvideo": "https://filemoon.sx/e/va0q6btklc0w/Inazuma_Eleven_GO-041__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go42": {
+              "next": "Go43",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/29/3092/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/39/3093/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E42 - ¡El enemigo más poderoso aparece! ¡Dragon Link!",
+              "idvideo": "https://filemoon.sx/e/59ut10pix2m1/Inazuma_Eleven_GO-042__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go43": {
+              "next": "Go44",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/39/3093/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/49/3094/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E43 - ¡La heroica batalla sagrada!",
+              "idvideo": "https://filemoon.sx/e/gqhhqhh65sb8/Inazuma_Eleven_GO-043__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go44": {
+              "next": "Go45",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/49/3094/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/59/3095/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E44 - ¡Alcanza el cielo! ¡¡El fútbol de todos!!",
+              "idvideo": "https://filemoon.sx/e/6kn3lo3prexy/Inazuma_Eleven_GO-044__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go45": {
+              "next": "Go46",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/59/3095/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/69/3096/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E45 - ¡El pase hacia el mañana!",
+              "idvideo": "https://filemoon.sx/e/q4sausfjhj90/Inazuma_Eleven_GO-045__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go46": {
+              "next": "Go47",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/69/3096/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/69/3096/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E46 - ¡Una reportera está aqui!",
+              "idvideo": "https://filemoon.sx/e/zuytvcdwq4ql/Inazuma_Eleven_GO-046__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            },
+            "Go47": {
+              "next": "Chrono01",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/79/3097/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/99/3099/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E47 - ¡Este es el club de fútbol del Raimon!",
+              "idvideo": "https://filemoon.sx/e/t0ayabjbc5h7/Inazuma_Eleven_GO-047__Uta_no_Hime_.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Movie": {
+        "__collections__": {
+          "episodes": {
+            "Movie01": {
+              "next": "Movie02",
+              "imagen": "https://i.ytimg.com/vi/aR6cLHa6y4w/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/EovBax6anWw/maxresdefault.jpg",
+              "nombre": "Pelicula01 - Inazuma Eleven:La Pelicula - ¡La fuerza definitiva, el equipo Ogre Ataca!",
+              "idvideo": "https://filemoon.sx/e/ne5dm7zypxx0/SnapSave.io-_UnH__Inazuma_Eleven__Super_Once___Saikyou_Gundan_Ogre_Shuurai_-_1080p_Sub._Espa_ol-_1080p_.mp4",
+              "__collections__": {}
+            },
+            "Movie02": {
+              "next": "Movie03",
+              "imagen": "https://inazumaweb-3e5c6.web.app/static/media/grifo.a8c696dc7eb4e9162c44.jpg",
+              "nextImagen": "https://inazumaweb-3e5c6.web.app/static/media/danball.6f64e6dd752c4fd0c99c.jpg",
+              "nombre": "Pelicula02 - Inazuma Eleven GO - La Película  : Grifón - El lazo Absoluto",
+              "idvideo": "https://filemoon.sx/e/m19htbnhws4s/Grifon.mp4",
+              "__collections__": {}
+            },
+            "Movie03": {
+              "nombre": "Pelicula 03 - Inazuma Eleven Go vs Danball Senki",
+              "idvideo": "https://filemoon.sx/e/7q9okmz0zfqq/danball.mp4",
+              "next": "Movie01",
+              "nextimagen": "https://i.ytimg.com/vi/aR6cLHa6y4w/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/aR6cLHa6y4w/maxresdefault.jpg",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Ventisca": {
+        "fondo": "https://3.bp.blogspot.com/-SMqL-6WxktU/XGWHIpTTbPI/AAAAAAAACuE/WybeyoXJMUMi4ehG0PcK74dIuWmM1DydACLcBGAs/d/inazuma%2Bblogger%2Botaku.jpg",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/ventusca.png?alt=media&token=490f7d1e-6971-40a6-97a4-d05b9c88aad6",
+        "Nombre": "Inazuma Eleven : Ventisca Eterna",
+        "sinopsis": "Después de ganar el torneo Fútbol Frontier, los chicos del Raimon al llegar, aparecen unos extraños seres que afirman venir del espacio.el Raimon pierde por una enorme ventaja y muchos de sus jugadores quedaron lesionados. Con los pocos miembros que quedan, reciben la ayuda de una mujer llamada Hitomiko y con la Caravana Inazuma, se van a viajar para detener la amenaza.",
+        "__collections__": {
+          "episodes": {
+            "Ventisca01": {
+              "next": "Ventisca02",
+              "imagen": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/32117675/32117675.53702625.original/r1280x720l?key=20e8fd171dfade98133e0c7e78cb67bbc7a00dfa8067dcdfca04448420170474",
+              "nextImagen": "https://stat.ameba.jp/user_images/20090417/23/gometh/c5/ec/j/o0800045010167432417.jpg",
+              "nombre": "E27 -  ¡La llegada de los extraterrestres!",
+              "idvideo": "https://filemoon.sx/e/77ah40cgzteh/027.mp4",
+              "__collections__": {}
+            },
+            "Ventisca02": {
+              "next": "Ventisca03",
+              "imagen": "https://stat.ameba.jp/user_images/20090417/23/gometh/c5/ec/j/o0800045010167432417.jpg",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/76/13567/main.jpg?impolicy=mainImg&scale=0.625",
+              "nombre": "E28 - ¡Hay que partir! ¡¡Equipo del Raimon!!",
+              "sinopsis": "El Raimon Eleven ha dado un paso al frente para intentar salvar el mundo contra los jugadores de fútbol de Aliea Gakuen , pero es como enfrentar a una hormiga contra un elefante. Mientras tanto, el presidente está en peligro por la misma amenaza y, de hecho, por el mundo mismo.",
+              "idvideo": "https://filemoon.sx/e/9ayosqyww92q/028.mp4",
+              "__collections__": {}
+            },
+            "Ventisca03": {
+              "next": "Ventisca04",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/76/13567/main.jpg?impolicy=mainImg&scale=0.625",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/86/13568/main.jpg?impolicy=mainImg&scale=0.333)",
+              "nombre": "E29 - ¡A Derrotarlos! ¡Equipo de Negro!",
+              "sinopsis": "El Primer Ministro ha sido secuestrado por extraterrestres, y Endou y los demás están decididos a ayudarlo. La Inazuma Caravan viaja al parque donde fue secuestrado, lista para vencer a los alienígenas. Pero espera, ¿quiénes son estas personas? ¿Y por qué afirman que los Raimon Eleven son extraterrestres?",
+              "idvideo": "https://filemoon.sx/e/4xbjljytr290/029.mp4",
+              "__collections__": {}
+            },
+            "Ventisca04": {
+              "next": "Ventisca05",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/86/13568/main.jpg?impolicy=mainImg&scale=0.333)",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/96/13569/main.jpg?impolicy=variable&width=960&height=540",
+              "nombre": "E30 - ¡Amenaza! ¡Ailea Gakuen!",
+              "idvideo": "https://filemoon.sx/e/rqmw7djoilxt/030.mp4",
+              "__collections__": {}
+            },
+            "Ventisca05": {
+              "next": "Ventisca06",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/96/13569/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/07/13570/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E31 - ¡¡En busca del goleador legendario!!",
+              "idvideo": "https://filemoon.sx/e/khuwqkf8qklq/031.mp4",
+              "__collections__": {}
+            },
+            "Ventisca06": {
+              "next": "Ventisca07",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/07/13570/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/17/13571/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E32 - ¡El príncipe de los campos de nieve!",
+              "idvideo": "https://filemoon.sx/e/9tuyxpoy1x0e/032.mp4",
+              "__collections__": {}
+            },
+            "Ventisca07": {
+              "next": "Ventisca08",
+              "nombre": "E033 -¿Quién Es El Delantero Estrella?",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/17/13571/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/27/13572/main.jpg?impolicy=variable&width=640&height=360",
+              "idvideo": "https://filemoon.sx/e/srusffbt7unz/033.mp4",
+              "__collections__": {}
+            },
+            "Ventisca08": {
+              "next": "Ventisca09",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/37/13573/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E34 - ¡Colisión! ¡Ailea Gakuen!",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/27/13572/main.jpg?impolicy=variable&width=640&height=360",
+              "idvideo": "https://filemoon.sx/e/vfto9ajvvdql/034.mp4",
+              "__collections__": {}
+            },
+            "Ventisca09": {
+              "next": "Ventisca10",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/37/13573/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/47/13574/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E35 - ¡Ataque de Épsilon!",
+              "idvideo": "https://filemoon.sx/e/gb8l1dqcjsbk/035.mp4",
+              "__collections__": {}
+            },
+            "Ventisca10": {
+              "next": "Ventisca11",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/47/13574/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/57/13575/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E36 - ¡El Poder Oculto!",
+              "idvideo": "https://filemoon.sx/e/22uoy0j5y754/036.mp4",
+              "__collections__": {}
+            },
+            "Ventisca11": {
+              "next": "Ventisca12",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/57/13575/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/67/13576/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E37 - ¡El Nuevo ataque de Teikoku! ¡Primer Tiempo!",
+              "idvideo": "https://filemoon.sx/e/ntruv2cmgm82/037.mp4",
+              "__collections__": {}
+            },
+            "Ventisca12": {
+              "next": "Ventisca13",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/67/13576/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/77/13577/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E38 - ¡El Nuevo ataque de Teikoku! ¡Segundo Tiempo!",
+              "idvideo": "https://filemoon.sx/e/8crjz44wx4vh/038.mp4",
+              "__collections__": {}
+            },
+            "Ventisca13": {
+              "next": "Ventisca14",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/77/13577/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/87/13578/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E39 - ¡La última Ventisca Wyvern!",
+              "idvideo": "https://filemoon.sx/e/ya8q9v76s04j/039.mp4",
+              "__collections__": {}
+            },
+            "Ventisca14": {
+              "next": "Ventisca15",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/87/13578/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/97/13579/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E40 - ¡La gran crisis de Ichinose!",
+              "idvideo": "https://filemoon.sx/e/45ldvjzpeyrc/040.mp4",
+              "__collections__": {}
+            },
+            "Ventisca15": {
+              "next": "Ventisca16",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/97/13579/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/08/13580/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E41 - ¡La trampa de Desarm!",
+              "idvideo": "https://filemoon.sx/e/7an973utvl24/041.mp4",
+              "__collections__": {}
+            },
+            "Ventisca16": {
+              "next": "Ventisca17",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/08/13580/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/18/13581/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E42 -  ¡Una feroz batalla!, El más temible Épsilon!",
+              "idvideo": "https://filemoon.sx/e/26dotatcos41/042.mp4",
+              "__collections__": {}
+            },
+            "Ventisca17": {
+              "next": "Ventisca18",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/18/13581/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/28/13582/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E43 -  ¡La técnica secreta definitiva del abuelo!",
+              "idvideo": "https://filemoon.sx/e/jlebcuxfvpzk/043.mp4",
+              "__collections__": {}
+            },
+            "Ventisca18": {
+              "next": "Ventisca19",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/28/13582/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/38/13583/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E44 - ¡Otra Mano Demoníaca!",
+              "idvideo": "https://filemoon.sx/e/e4fgbtvdrdj0/044.mp4",
+              "__collections__": {}
+            },
+            "Ventisca19": {
+              "next": "Ventisca20",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/38/13583/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/48/13584/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E45 - ¡Sísmico! ¡Génesis el equipo más fuerte!",
+              "idvideo": "https://filemoon.sx/e/78q47ar00hz0/045.mp4",
+              "__collections__": {}
+            },
+            "Ventisca20": {
+              "next": "Ventisca21",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/48/13584/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/58/13585/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E46 -  ¡La prueba del capitán!",
+              "idvideo": "https://filemoon.sx/e/jdshwxd7g55x/046.mp4",
+              "__collections__": {}
+            },
+            "Ventisca21": {
+              "next": "Ventisca22",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/58/13585/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/68/13586/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E47 - ¡¡El Gran duelo en los mares del sur!",
+              "idvideo": "https://filemoon.sx/e/5n18l6xwy8mg/047.mp4",
+              "__collections__": {}
+            },
+            "Ventisca22": {
+              "next": "Ventisca23",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/68/13586/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/78/13587/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E48 -  ¡El delantero de fuego!",
+              "idvideo": "https://filemoon.sx/e/hl4ppa4e18xg/048.mp4",
+              "__collections__": {}
+            },
+            "Ventisca23": {
+              "next": "Ventisca24",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/78/13587/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/88/13588/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E49 -  ¡A surcar el latido! ¡Fútbol rítmico!",
+              "idvideo": "https://filemoon.sx/e/i1m2iowrcew9/049.mp4",
+              "__collections__": {}
+            },
+            "Ventisca24": {
+              "next": "Ventisca25",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/88/13588/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/98/13589/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E50 - ¡Retumba, Puño de la Justicia!",
+              "idvideo": "https://filemoon.sx/e/f8kfqzl6pora/050.mp4",
+              "__collections__": {}
+            },
+            "Ventisca25": {
+              "next": "Fuego01",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/53/98/13589/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/53/09/13590/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E51 - ¡El Contraataque del Épsilon Kai!",
+              "idvideo": "https://filemoon.sx/e/8he2q9jo4cb3/051.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Original": {
+        "nombre": "Inazuma Eleven",
+        "logo": "https://drive.google.com/uc?id=1swtTGhCNB6FDfwRgo7ZEkiYvjfTjFrvi&export=download",
+        "sinopsis": "Endou Mamoru, es un portero muy talentoso y el nieto de uno de los más fuertes porteros en Japón. A pesar de que sus habilidades son increíbles, su escuela carece de un club de fútbol de verdad, ya que los otros miembros no parecen muy interesados en entrenarse.",
+        "fondo": "https://photos.tf1.fr/1920/1080/cover-showpage-012a6f-c715ca-0@1x.jpg",
+        "__collections__": {
+          "Episodes": {
+            "Original03": {
+              "next": "Original04",
+              "nombre": "E03 - ¡Llamemos a las técnicas Hissatsu!",
+              "imagen": "https://s1.dmcdn.net/v/Svjxs1WUpkOht34pU/x480",
+              "idvide": "https://download2297.mediafire.com/382nfc44yw4gVSAu-AKFgRPCp1AluLdRo3fxtbuLlPqZjMB30NZqygnMDZb8T1gJEgNxFSRNXNKpM57HtxDLWFtABGoshODti3uU-yVVEuL_XfzQw0XYMglpKS3z9_8vNr108QOxzbK6y8UrwEP8_xq11gs3tjjXkrRApMbLDYVxSg/t4ea62wbk9r2ce5/003.mp4",
+              "nextImagen": "https://simkl.in/episodes/26/263277410bd99c57a_w.jpg",
+              "__collections__": {}
+            }
+          },
+          "episodes": {
+            "Original01": {
+              "provedor": "vimeo",
+              "nombre": "E01 - ¡Juguemos al Fútbol!",
+              "next": "Original02",
+              "nextImagen": "https://s2.dmcdn.net/v/U2XbZ1Yl02qOtgAme/x1080",
+              "imagen": "https://s2.dmcdn.net/v/U2WtL1Yl02WeG0-fb/x1080",
+              "idvideo": "https://filemoon.sx/e/lba7o5johzo2/001.mp4",
+              "__collections__": {}
+            },
+            "Original02": {
+              "next": "Original03",
+              "imagen": "https://s2.dmcdn.net/v/U2XbZ1Yl02qOtgAme/x1080",
+              "provedor": "vimeo",
+              "nextImagen": "https://s1.dmcdn.net/v/Svjxs1WUpkOht34pU/x480",
+              "nombre": "E02 - ¡Teikoku esta aqui!",
+              "idvideo": "https://filemoon.sx/e/g6m6tpk5f5ru/002.mp4",
+              "__collections__": {}
+            },
+            "Original03": {
+              "next": "Original04",
+              "imagen": "https://s1.dmcdn.net/v/Svjxs1WUpkOht34pU/x480",
+              "nextImagen": "https://simkl.in/episodes/26/263277410bd99c57a_w.jpg",
+              "nombre": "E03 - ¡Llamemos a las técnicas Hissatsu!",
+              "idvideo": "https://filemoon.sx/e/74ce6546oq0f/003.mp4",
+              "__collections__": {}
+            },
+            "Original04": {
+              "next": "Original05",
+              "imagen": "https://simkl.in/episodes/26/263277410bd99c57a_w.jpg",
+              "nextImagen": "https://easycdn.es/1/series/capi/capitulo_12616.jpg",
+              "nombre": "E04 - Aquí viene el dragón",
+              "idvideo": "https://filemoon.sx/e/kpc2holc7lat/004.mp4",
+              "__collections__": {}
+            },
+            "Original05": {
+              "next": "Original06",
+              "imagen": "https://easycdn.es/1/series/capi/capitulo_12616.jpg",
+              "nextImagen": "https://s1.dmcdn.net/v/U5PyO1YqhcGgXRvD5/x360",
+              "nombre": "E05 - ¡Dónde estará el manual secreto!",
+              "idvideo": "https://filemoon.sx/e/881s6kcpn1fh/005.mp4",
+              "__collections__": {}
+            },
+            "Original06": {
+              "next": "Original07",
+              "imagen": "https://s1.dmcdn.net/v/U5PyO1YqhcGgXRvD5/x360",
+              "nextImagen": "https://s2.dmcdn.net/v/U7VTN1YwbMrKKpqPd/x1080",
+              "nombre": "E06 - Este es el Inazuma Otoshi",
+              "idvideo": "https://filemoon.sx/e/rqr4dgu9ly72/006.mp4",
+              "__collections__": {}
+            },
+            "Original07": {
+              "next": "Original08",
+              "imagen": "https://s2.dmcdn.net/v/U7VTN1YwbMrKKpqPd/x1080",
+              "nextImagen": "https://simkl.in/episodes/26/2632750e56788a6ce_w.jpg",
+              "nombre": "E07 - Duelo en la Orilla del Río",
+              "idvideo": "https://filemoon.sx/e/a60b9ei1dnl6/007.mp4",
+              "__collections__": {}
+            },
+            "Original08": {
+              "next": "Original09",
+              "imagen": "https://simkl.in/episodes/26/2632750e56788a6ce_w.jpg",
+              "nextImagen": "https://s1.dmcdn.net/v/Rp-Qy1VaJ_eSFGfZu/x360",
+              "nombre": "E08 - Los temibles Cyborgs de fútbol!",
+              "idvideo": "https://filemoon.sx/e/yjt6kkn0oqyb/008.mp4",
+              "__collections__": {}
+            },
+            "Original09": {
+              "next": "Original10",
+              "nextImagen": "https://cdn2.rtva.interactvty.com/content_cards/9e5cc60c966441ba8fb35714dccf619c.jpg",
+              "nombre": "E09 - ¡¡Ponte de pie, Megane!!",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/23/3032/main.jpg?impolicy=variable&width=640&height=360",
+              "idvideo": "https://filemoon.sx/e/kq2pqhw68q9r/009.mp4",
+              "__collections__": {}
+            },
+            "Original10": {
+              "next": "Original11",
+              "imagen": "https://s2.dmcdn.net/v/RqCJl1VaK0vPjdHUn/x1080",
+              "nextImagen": "https://s2.dmcdn.net/v/Syerv1WbOE1qGiRic/x1080",
+              "nombre": "E10 - ¡El espía del Teikoku!",
+              "idvideo": "https://filemoon.sx/e/3m21wnl2taas/010.mp4",
+              "__collections__": {}
+            },
+            "Original11": {
+              "next": "Original12",
+              "imagen": "https://s2.dmcdn.net/v/Syerv1WbOE1qGiRic/x1080",
+              "nextImagen": "https://pbs.twimg.com/media/Dt7EJyNXcAE35Qo.jpg",
+              "nombre": "E11 - Encontrando al nuevo entrenador",
+              "idvideo": "https://filemoon.sx/e/georkj3p938i/011.mp4",
+              "__collections__": {}
+            },
+            "Original12": {
+              "next": "Original13",
+              "imagen": "https://pbs.twimg.com/media/Dt7EJyNXcAE35Qo.jpg",
+              "nextImagen": "https://easycdn.es/1/series/capi/capitulo_12624.jpg",
+              "nombre": "E12 - ¡Las Finales! ¡La Teikoku Gakuen - Primera mitad!",
+              "idvideo": "https://filemoon.sx/e/3qkcsxs2nheo/012.mp4",
+              "__collections__": {}
+            },
+            "Original13": {
+              "next": "Original14",
+              "imagen": "https://easycdn.es/1/series/capi/capitulo_12624.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/d14aR49ZvWg/maxresdefault.jpg",
+              "nombre": "E13 - ¡Las Finales! ¡La Teikoku Gakuen - Segunda mitad!",
+              "idvideo": "https://filemoon.sx/e/5i4vwla02u47/013.mp4",
+              "__collections__": {}
+            },
+            "Original14": {
+              "next": "Original15",
+              "imagen": "https://i.ytimg.com/vi/d14aR49ZvWg/maxresdefault.jpg",
+              "nextImagen": "https://s1.dmcdn.net/v/TDUY01XAaQmr5IsI1/x480",
+              "nombre": "E14 - ¡El Legendario Inazuma Eleven!",
+              "idvideo": "https://filemoon.sx/e/xjxzcxr4oipd/014.mp4",
+              "__collections__": {}
+            },
+            "Original15": {
+              "next": "Original16",
+              "imagen": "https://s1.dmcdn.net/v/TDUY01XAaQmr5IsI1/x480",
+              "nextImagen": "https://s2.dmcdn.net/v/TGkIf1XHsMkAnTf4n/x1080",
+              "nombre": "E15 - ¡El Torneo Nacional ya está aquí!",
+              "idvideo": "https://filemoon.sx/e/pqk5439h5dtw/015.mp4",
+              "__collections__": {}
+            },
+            "Original16": {
+              "next": "Original17",
+              "imagen": "https://s2.dmcdn.net/v/TGkIf1XHsMkAnTf4n/x1080",
+              "nextImagen": "https://simkl.in/episodes/26/2632758ba9fa130c6_w.jpg",
+              "nombre": "E16 -  ¡A romper el Fútbol Ninja!",
+              "idvideo": "https://filemoon.sx/e/59iksknoh7z2/016.mp4",
+              "__collections__": {}
+            },
+            "Original17": {
+              "next": "Original18",
+              "imagen": "https://simkl.in/episodes/26/2632758ba9fa130c6_w.jpg",
+              "nextImagen": "https://s1.dmcdn.net/v/TPvIu1YcHu1b7AcGR/x1080",
+              "nombre": "E17 -  ¡La decisión de Kidou!",
+              "idvideo": "https://filemoon.sx/e/rxz92d7glpjm/017.mp4",
+              "__collections__": {}
+            },
+            "Original18": {
+              "next": "Original19",
+              "imagen": "https://s1.dmcdn.net/v/TPvIu1YcHu1b7AcGR/x1080",
+              "nextImagen": "https://simkl.in/episodes/26/2632756a69581adc4_w.jpg",
+              "nombre": "E18 - ¡Destruyan ese muro de acero!",
+              "idvideo": "https://filemoon.sx/e/mqfv1swt131k/018.mp4",
+              "__collections__": {}
+            },
+            "Original19": {
+              "next": "Original20",
+              "imagen": "https://simkl.in/episodes/26/2632756a69581adc4_w.jpg",
+              "nextImagen": "https://s1.dmcdn.net/v/TGyN61X_YZMhrX5I5/x720",
+              "nombre": "E19 - El Genio ha revivido",
+              "idvideo": "https://filemoon.sx/e/ljb6t1q0okxv/019.mp4",
+              "__collections__": {}
+            },
+            "Original20": {
+              "next": "Original21",
+              "imagen": "https://s1.dmcdn.net/v/TGyN61X_YZMhrX5I5/x720",
+              "nextImagen": "https://i.ytimg.com/vi/JduwZncdVas/maxresdefault.jpg",
+              "nombre": "E20 - ¡La técnica especial Triángulo Z!",
+              "idvideo": "https://filemoon.sx/e/d/y9f1w4z5ocuu/020.mp4",
+              "__collections__": {}
+            },
+            "Original21": {
+              "next": "Original22",
+              "imagen": "https://i.ytimg.com/vi/JduwZncdVas/maxresdefault.jpg",
+              "nextImagen": "https://s1.dmcdn.net/v/TPyrY1X_aNM8GmzoG/x1080",
+              "nombre": "E21 - ¡Batalla Feróz! ¡El Kidokawa Seishu!",
+              "idvideo": "https://filemoon.sx/e/m8ndlxkyqpq7/021.mp4",
+              "__collections__": {}
+            },
+            "Original22": {
+              "next": "Original23",
+              "imagen": "https://s1.dmcdn.net/v/TPyrY1X_aNM8GmzoG/x1080",
+              "nextImagen": "https://s1.dmcdn.net/v/SAXEI1YNefteibdL8/x480",
+              "nombre": "E22 - ¡Una técnica que supere la Mano Fantasma!",
+              "idvideo": "https://filemoon.sx/e/9ayj0b45l58n/022.mp4",
+              "__collections__": {}
+            },
+            "Original23": {
+              "next": "Original24",
+              "imagen": "https://s1.dmcdn.net/v/SAXEI1YNefteibdL8/x480",
+              "nextImagen": "https://simkl.in/episodes/26/263277618992dbd23_w.jpg",
+              "nombre": "E23 -  Un desafío de los Dioses",
+              "idvideo": "https://filemoon.sx/e/ur1xy3gvbyhv/023.mp4",
+              "__collections__": {}
+            },
+            "Original24": {
+              "next": "Original25",
+              "imagen": "https://simkl.in/episodes/26/263277618992dbd23_w.jpg",
+              "nextImagen": "https://cfm.yidio.com/images/tv/24212/520815/episode-image-400x225.jpg",
+              "nombre": "E24 - Vamos al campamento de concentración",
+              "idvideo": "https://filemoon.sx/e/qotvctlmzxm1/024.mp4",
+              "__collections__": {}
+            },
+            "Original25": {
+              "next": "Original26",
+              "imagen": "https://cfm.yidio.com/images/tv/24212/520815/episode-image-400x225.jpg",
+              "nombre": "E25 - ¡El último partido!",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/03/94/3049/main.jpg?impolicy=variable&width=640&height=360",
+              "idvideo": "https://filemoon.sx/e/pt4yi2rsopz5/025.mp4",
+              "__collections__": {}
+            },
+            "Original26": {
+              "next": "Ventisca01",
+              "nextImagen": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/32117675/32117675.53702625.original/r1280x720l?key=20e8fd171dfade98133e0c7e78cb67bbc7a00dfa8067dcdfca04448420170474",
+              "nombre": "E26 - ¡Colisión! Dios contra Demonio",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/03/94/3049/main.jpg?impolicy=variable&width=640&height=360",
+              "idvideo": "https://filemoon.sx/e/zxe6zyz3y7he/026.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Orion": {
+        "nombre": "Inazuma Eleven Orion",
+        "logo": "https://drive.google.com/uc?id=1tHmrkE9i2qZQaZgITP2dLYcbOX1StTqr&export=download",
+        "sinopsis": "Inazuma Eleven Orion tiene como equipo protagonista a Inazuma Japón y se enfocará principalmente en sus partidos en el Fútbol Frontier Internacional, así como su respectiva fase de clasificación asiática y el nacimiento de ese mismo equipo antes del inicio del torneo.",
+        "fondo": "https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/back_01.jpg?alt=media&token=a31a1d4d-9dee-4044-aaa0-99a628ffe4ff",
+        "__collections__": {
+          "episodes": {
+            "Orion01": {
+              "next": "Orion02",
+              "imagen": "https://takamakiokerar.files.wordpress.com/2019/10/inazuma-eleven-orion-no-kokuin-11570-1.jpg",
+              "nextImagen": "https://img.betaseries.com/BmgtZnyVWuTe6asbkJDJV8t-5ic=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F93f38244691cfb0366dc2e6a592e698b.jpg",
+              "nombre": "E01 - ¡La Puerta al Mundo!",
+              "idvideo": "https://filemoon.sx/e/cdgs6n43d9gh/Inazuma_Eleven_Orion_no_Kokuin_Episodio_1__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion02": {
+              "next": "Orion03",
+              "imagen": "https://img.betaseries.com/BmgtZnyVWuTe6asbkJDJV8t-5ic=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F93f38244691cfb0366dc2e6a592e698b.jpg",
+              "nextImagen": "https://64.media.tumblr.com/0f9d16fac2cdaa5cbd1aedee1daac6d3/tumblr_pgz81h9T4O1rkv9cno3_500.png",
+              "nombre": "E02 - ¡La ultima Arma Perdida!",
+              "idvideo": "https://filemoon.sx/e/cgwua4o5qbjp/Inazuma_Eleven_Orion_no_Kokuin_Episodio_2__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion03": {
+              "next": "Orion04",
+              "imagen": "https://64.media.tumblr.com/0f9d16fac2cdaa5cbd1aedee1daac6d3/tumblr_pgz81h9T4O1rkv9cno3_500.png",
+              "nextImagen": "https://64.media.tumblr.com/aef9e6273dc401af46983ac7ba534529/tumblr_ph9yvnICza1rkv9cno1_1280.png",
+              "nombre": "E03 - ¡Aquellos con el sello!",
+              "idvideo": "https://filemoon.sx/e/xxjj840notvp/Inazuma_Eleven_Orion_no_Kokuin_Episodio_3__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion04": {
+              "next": "Orion05",
+              "imagen": "https://64.media.tumblr.com/aef9e6273dc401af46983ac7ba534529/tumblr_ph9yvnICza1rkv9cno1_1280.png",
+              "nextImagen": "https://pictures.betaseries.com/banners/episodes/345384/16f4ea58c8d8af78af898cd749c684b2.jpg",
+              "nombre": "E04 - ¡El Sonriente Ichihoshi!",
+              "idvideo": "https://filemoon.sx/e/n12hdjsyg0u1/Inazuma_Eleven_Orion_no_Kokuin_Episodio_4__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion05": {
+              "next": "Orion06",
+              "imagen": "https://i.ytimg.com/vi/1o_xCR50X4s/maxresdefault.jpg",
+              "nextImagen": "https://pictures.betaseries.com/banners/episodes/345384/16f4ea58c8d8af78af898cd749c684b2.jpg",
+              "nombre": "E05 - ¡El caballo de troya!",
+              "idvideo": "https://filemoon.sx/e/e3ivvpy4rha7/Inazuma_Eleven_Orion_no_Kokuin_Episodio_5__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion06": {
+              "next": "Orion07",
+              "imagen": "https://pictures.betaseries.com/banners/episodes/345384/16f4ea58c8d8af78af898cd749c684b2.jpg",
+              "nextImagen": "https://img.betaseries.com/vCdDQSOJrf-zZuu4vy7oNIICuak=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F2bb698f3406609c7fe0e6771753718e5.jpg",
+              "nombre": "E06 - ¡El Contraataque de Kidou!",
+              "idvideo": "https://filemoon.sx/e/8hpcgiaqrnti/Inazuma_Eleven_Orion_no_Kokuin_Episodio_6__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion07": {
+              "next": "Orion08",
+              "imagen": "https://img.betaseries.com/vCdDQSOJrf-zZuu4vy7oNIICuak=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F2bb698f3406609c7fe0e6771753718e5.jpg",
+              "nextImagen": "https://img.betaseries.com/1FNViJK-DKziE9YSg1Hk8Wh6XjU=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F6537a8c0a304f514f37a7bacc5084041.jpg",
+              "nombre": "E07 - ¡Una trampa planificada!",
+              "idvideo": "https://filemoon.sx/e/bgsotv666r29/Inazuma_Eleven_Orion_no_Kokuin_Episodio_7__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion08": {
+              "next": "Orion09",
+              "imagen": "https://img.betaseries.com/1FNViJK-DKziE9YSg1Hk8Wh6XjU=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F6537a8c0a304f514f37a7bacc5084041.jpg",
+              "nextImagen": "https://img.betaseries.com/V4jic7aMCxbNQE_-fsSkduYbMfg=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F0139dca13a091167180fe756ce21331f.jpg",
+              "nombre": "E08 - ¡La Mayor crisis del Inazuma Japan!",
+              "idvideo": "https://filemoon.sx/e/r8inkerqcp61/Inazuma_Eleven_Orion_no_Kokuin_Episodio_8__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion09": {
+              "next": "Orion10",
+              "imagen": "https://img.betaseries.com/V4jic7aMCxbNQE_-fsSkduYbMfg=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F0139dca13a091167180fe756ce21331f.jpg",
+              "nextImagen": "https://img.betaseries.com/EW38a1rLKmEipl215xUTYevJ0FY=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2Fd95d8db2f0e805d23a222b0845f29a8a.jpg",
+              "nombre": "E09 - El Retorno del Emperador.",
+              "idvideo": "https://filemoon.sx/e/v6d6feoectj8/Inazuma_Eleven_Orion_no_Kokuin_Episodio_9__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion10": {
+              "next": "Orion11",
+              "imagen": "https://img.betaseries.com/EW38a1rLKmEipl215xUTYevJ0FY=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2Fd95d8db2f0e805d23a222b0845f29a8a.jpg",
+              "nextImagen": "https://img.betaseries.com/hGoisSXW_3ofN4N63b8JX6_ds2M=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F5a15441aca008b12383b303c0d28b39a.jpg",
+              "nombre": "E10 - El Contraataque del Emperador",
+              "idvideo": "https://filemoon.sx/e/3lhf6c56nevj/Inazuma_Eleven_Orion_no_Kokuin_Episodio_10__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion11": {
+              "next": "Orion12",
+              "imagen": "https://img.betaseries.com/hGoisSXW_3ofN4N63b8JX6_ds2M=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F5a15441aca008b12383b303c0d28b39a.jpg",
+              "nextImagen": "https://img.betaseries.com/k0umr5BoIxuFlyWimsdurOrTJ8U=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F0539884fc93ea2b31364d1213c3ef438.jpg",
+              "nombre": "E11 - ¡El escenario del emperador!",
+              "idvideo": "https://filemoon.sx/e/f48mfia9yt8g/Inazuma_Eleven_Orion_no_Kokuin_Episodio_11__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion12": {
+              "next": "Orion13",
+              "imagen": "https://img.betaseries.com/k0umr5BoIxuFlyWimsdurOrTJ8U=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F0539884fc93ea2b31364d1213c3ef438.jpg",
+              "nextImagen": "https://img.betaseries.com/uHUhXsexkozxKjmir0-qR6eakoI=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2Fc661e306ec960d1eaf1d04c938eddac1.jpg",
+              "nombre": "E12 - ¡La ultima decision de Ichihoshi!",
+              "idvideo": "https://filemoon.sx/e/xhl2c9teoeg9/Inazuma_Eleven_Orion_no_Kokuin_Episodio_12__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion13": {
+              "next": "Orion14",
+              "imagen": "https://img.betaseries.com/uHUhXsexkozxKjmir0-qR6eakoI=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2Fc661e306ec960d1eaf1d04c938eddac1.jpg",
+              "nextImagen": "https://img.betaseries.com/wEaeP3PrLuigHP33nSwSd4LZd74=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2Feb167d92218cc8e6b599cc606ba5a06e.jpg",
+              "nombre": "E13 - ¡El nuevo resplandor de Japón!",
+              "idvideo": "https://filemoon.sx/e/wltdl3f695i0/Inazuma_Eleven_Orion_no_Kokuin_Episodio_13__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion14": {
+              "next": "Orion15",
+              "imagen": "https://img.betaseries.com/wEaeP3PrLuigHP33nSwSd4LZd74=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2Feb167d92218cc8e6b599cc606ba5a06e.jpg",
+              "nextImagen": "https://img.betaseries.com/6Cp2bd4LZUFFFLXmFbuW73gkwBk=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F880a479fc5ffe5e4e3e621a6725bc289.jpg",
+              "nombre": "E14 - ¡El Brillante chico del Fútbol!",
+              "idvideo": "https://filemoon.sx/e/ywbfyiw764w7/Inazuma_Eleven_Orion_no_Kokuin_Episodio_14__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion15": {
+              "next": "Orion16",
+              "imagen": "https://img.betaseries.com/6Cp2bd4LZUFFFLXmFbuW73gkwBk=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F880a479fc5ffe5e4e3e621a6725bc289.jpg",
+              "nextImagen": "https://img.betaseries.com/J2Zp3CTga7wY8LLmFUfEx9rj_GA=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F842f5449229d9de1458666523f17e8bd.jpg",
+              "nombre": "E15 - ¡El Aprendiz de Chou Kinun!",
+              "idvideo": "https://filemoon.sx/e/jgoplfxpqu7z/Inazuma_Eleven_Orion_no_Kokuin_Episodio_15__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion16": {
+              "next": "Orion17",
+              "imagen": "https://img.betaseries.com/J2Zp3CTga7wY8LLmFUfEx9rj_GA=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F842f5449229d9de1458666523f17e8bd.jpg",
+              "nextImagen": "https://img.betaseries.com/Ao6nnWy_Z-IXHWZTrmK5gGmQDbE=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F303aa824cefb645dd2bf786f98554c1f.jpg",
+              "nombre": "E16 - ¡Yo estoy en el equipo!",
+              "idvideo": "https://filemoon.sx/e/dgnvcxzfr1lx/Inazuma_Eleven_Orion_no_Kokuin_Episodio_16__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion17": {
+              "next": "Orion18",
+              "imagen": "https://img.betaseries.com/Ao6nnWy_Z-IXHWZTrmK5gGmQDbE=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2F303aa824cefb645dd2bf786f98554c1f.jpg",
+              "nextImagen": "https://img.betaseries.com/1fqknzOGbNSKYJEtoyD35Sh3iWU=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2Ff6bd846a1adcf3406daa49dfbd09ec65.jpg",
+              "nombre": "E17 - ¡La Tactica del Triple Portero!",
+              "idvideo": "https://filemoon.sx/e/u48imt4jgun2/Inazuma_Eleven_Orion_no_Kokuin_Episodio_17__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion18": {
+              "next": "Orion19",
+              "imagen": "https://img.betaseries.com/1fqknzOGbNSKYJEtoyD35Sh3iWU=/500x282/smart/https%3A%2F%2Fpictures.betaseries.com%2Fbanners%2Fepisodes%2F345384%2Ff6bd846a1adcf3406daa49dfbd09ec65.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/PXUx6ui944c/maxresdefault.jpg",
+              "nombre": "E18 - ¡Goujin entra al campo!",
+              "idvideo": "https://filemoon.sx/e/7256xkc95dv8/Inazuma_Eleven_Orion_no_Kokuin_Episodio_18__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion19": {
+              "next": "Orion20",
+              "nextImagen": "https://i.ytimg.com/vi/mxZIRzXxTRY/maxresdefault.jpg",
+              "nombre": "E19 - ¡Buscando un gran escenario!",
+              "imagen": "https://i.ytimg.com/vi/PXUx6ui944c/maxresdefault.jpg",
+              "idvideo": "https://filemoon.sx/e/0plsynnuxvsz/Inazuma_Eleven_Orion_no_Kokuin_Episodio_19__Sub._Espa_ol_.mp4",
+              "__collections__": {}
+            },
+            "Orion20": {
+              "next": "Orion21",
+              "imagen": "https://i.ytimg.com/vi/mxZIRzXxTRY/maxresdefault.jpg",
+              "nextImagen": "https://64.media.tumblr.com/4450a08b71cfed7f7e199d0a6e69b0b5/tumblr_portu0OQRF1rkv9cno3_1280.png",
+              "nombre": "E20 - ¡Una fiesta por nuestro viaje!",
+              "idvideo": "https://filemoon.sx/e/mmfzi9is4ezn/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_20_-_Sub_Espa_ol_-__Una_Fiesta_por_Nuestro_Viaje!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion21": {
+              "next": "Orion22",
+              "imagen": "https://64.media.tumblr.com/4450a08b71cfed7f7e199d0a6e69b0b5/tumblr_portu0OQRF1rkv9cno3_1280.png",
+              "nextImagen": "https://i.ytimg.com/vi/lyWC6PKJ9Uo/maxresdefault.jpg",
+              "nombre": "E21 - ¡Un mar de emociones!",
+              "idvideo": "https://filemoon.sx/e/ps03ld9boz3m/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_21_-_Sub_Espa_ol_-__Un_Mar_de_Emociones!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion22": {
+              "next": "Orion23",
+              "imagen": "https://i.ytimg.com/vi/lyWC6PKJ9Uo/maxresdefault.jpg",
+              "nextImagen": "https://s9.namasha.com/images/preview/7192743438-640x360.jpg",
+              "nombre": "E22 - ¡Viva! Más allá del mundo.",
+              "idvideo": "https://filemoon.sx/e/dfaw9trf7lo7/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_22_-_Sub_Espa_ol_-__Viva!_Mas_all__del_Mundo_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion23": {
+              "next": "Orion24",
+              "imagen": "https://s9.namasha.com/images/preview/7192743438-640x360.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/GMMEQNDNepc/maxresdefault.jpg",
+              "nombre": "E23 - ¡El muro del mundo!",
+              "idvideo": "https://filemoon.sx/e/54k15ut3xjz9/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_23_-_Sub_Espa_ol_-__El_Muro_del_Mundo!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion24": {
+              "next": "Orion25",
+              "imagen": "https://i.ytimg.com/vi/GMMEQNDNepc/maxresdefault.jpg",
+              "nextImagen": "https://pbs.twimg.com/media/D32u5plXkAACUTz.jpg",
+              "nombre": "E24 - Caminemos por Rusia",
+              "idvideo": "https://filemoon.sx/e/ymolgnjbjiad/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_24_-_Sub_Espa_ol_-__Caminemos_por_Rusia!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion25": {
+              "next": "Orion26",
+              "idvideo": "https://filemoon.sx/e/https://www.youtube.com/watch?v=Q2Z9sBBQ0EY",
+              "imagen": "https://pbs.twimg.com/media/D32u5plXkAACUTz.jpg",
+              "nextImagen": "https://i.redd.it/ajedtjhhhyq51.jpg",
+              "nombre": "E25 - ¡El enorme titán invencible!",
+              "__collections__": {}
+            },
+            "Orion26": {
+              "next": "Orion27",
+              "imagen": "https://i.redd.it/ajedtjhhhyq51.jpg",
+              "nextImagen": "https://pm1.aminoapps.com/7175/61bb83607d5140ab0916f4269fa02b649a6df631r1-700-394v2_uhq.jpg",
+              "nombre": "E26 - ¡El brillo del general!",
+              "idvideo": "https://filemoon.sx/e/4llyy5zzwm4s/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_26_-_Sub_Espa_ol_-__El_Brillo_del_General!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion27": {
+              "next": "Orion28",
+              "imagen": "https://pm1.aminoapps.com/7175/61bb83607d5140ab0916f4269fa02b649a6df631r1-700-394v2_uhq.jpg",
+              "nombre": "E27 - ¡Asuto! ¡Corre por la victoria!",
+              "nextImagen": "https://i.ytimg.com/vi/J4rDTurwjAA/maxresdefault.jpg",
+              "idvideo": "https://filemoon.sx/e/2jtlz72bpk97/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_27_-_Sub_Espa_ol_-__Asuto!_Corre_por_la_Victoria!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion28": {
+              "next": "Orion29",
+              "imagen": "https://i.ytimg.com/vi/J4rDTurwjAA/maxresdefault.jpg",
+              "nextImagen": "https://www.youtube.com/watch?v=iK2NEq1sxQ4",
+              "nombre": "E28 - ¡Ichinose, inmerso en una revolución!",
+              "idvideo": "https://filemoon.sx/e/j267sohej576/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_28_-_Sub_Espa_ol_-_Ichinose__Inmerso_en_una_Revoluci_n_-HD.mp4",
+              "__collections__": {}
+            },
+            "Orion29": {
+              "next": "Orion30",
+              "imagen": "https://i.ytimg.com/vi/c13c5xFKSi4/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/DR0uSJQ2BBg/maxresdefault.jpg",
+              "nombre": "E29 - ¡Aphrodi desciende!",
+              "idvideo": "https://filemoon.sx/e/yeyphfsim0fn/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_29_-_Sub_Espa_ol_-__Aphrodi_Desciende!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion30": {
+              "next": "Orion31",
+              "imagen": "https://i.ytimg.com/vi/DR0uSJQ2BBg/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/sy-Wkr68ouw/maxresdefault.jpg",
+              "nombre": "E30 - ¡La mirada de Dios!",
+              "idvideo": "https://filemoon.sx/e/y9w7qrp6rhwq/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_30_-_Sub_Espa_ol_-__La_Mirada_de_Dios!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion31": {
+              "next": "Orion32",
+              "imagen": "https://i.ytimg.com/vi/sy-Wkr68ouw/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/R46BzFSvHP4/maxresdefault.jpg",
+              "nombre": "E31 - ¡GGG Aire concatenado!",
+              "idvideo": "https://filemoon.sx/e/t88mas4trq6s/Inazuma_Eleven_Orion_no_Kokuin_-_Cap_tulo_31_-_Sub_Espa_ol_-__GGG_Aire_Concatenado!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion32": {
+              "next": "Orion33",
+              "imagen": "https://i.ytimg.com/vi/R46BzFSvHP4/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/7Dnw1kHp8QI/maxresdefault.jpg",
+              "nombre": "E32 - ¡Renace! ¡Fenix!",
+              "idvideo": "https://filemoon.sx/e/k4ga6fsaat02/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_32_-_Sub_Espa_ol_-__Renace!_Fenix_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion33": {
+              "next": "Orion34",
+              "imagen": "https://i.ytimg.com/vi/7Dnw1kHp8QI/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/vyDYaPYCmlE/maxresdefault.jpg",
+              "nombre": "E33 - Asuto desaparece",
+              "idvideo": "https://filemoon.sx/e/5w4ele02djnp/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_33_-_Sub_Espa_ol_-__Asuto_Desaparece!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion34": {
+              "next": "Orion35",
+              "imagen": "https://i.ytimg.com/vi/vyDYaPYCmlE/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/SZ8Lzp1A0l0/maxresdefault.jpg",
+              "nombre": "E34 - Los impactantes nuevos miembros",
+              "idvideo": "https://filemoon.sx/e/0rm2tn29a7wt/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_34_-_Sub_Espa_ol_-_Los_Impactantes_nuevos_Miembros_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion35": {
+              "next": "Orion36",
+              "imagen": "https://i.ytimg.com/vi/SZ8Lzp1A0l0/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/kd7moqoBkUM/maxresdefault.jpg",
+              "nombre": "E35 - ¡El radiante Froy!",
+              "idvideo": "https://filemoon.sx/e/1tzjtri8ywdn/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_35_-_Sub_Espa_ol_-__El_Radiante_Froy!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion36": {
+              "next": "Orion37",
+              "imagen": "https://i.ytimg.com/vi/kd7moqoBkUM/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/l4I2Vqgd67k/maxresdefault.jpg",
+              "nombre": "E36 - ¡El solitario Froy!",
+              "idvideo": "https://filemoon.sx/e/7mfidimdxw1o/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_36_-_Sub_Espa_ol_-__El_Solitario_Froy!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion37": {
+              "next": "Orion38",
+              "imagen": "https://i.ytimg.com/vi/l4I2Vqgd67k/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/AQKSiQsVzZo/maxresdefault.jpg",
+              "nombre": "E37 - ¡El jugador con pañuelo negro!",
+              "idvideo": "https://filemoon.sx/e/852t6yinqts5/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_37_-_Sub_Espa_ol_-__El_Jugador_con_Pa_uelo_Negro!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion38": {
+              "next": "Orion39",
+              "imagen": "https://i.ytimg.com/vi/AQKSiQsVzZo/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/6eJtSCpqmtk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA3lo6OO_cQooqqEq9Ta0wcu-250g",
+              "nombre": "E38 - ¡La verdad sobre Orion!",
+              "idvideo": "https://filemoon.sx/e/uryi8j65l3um/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_38_-__La_Verdad_Sobre_Orion!_-_Sub_Espa_ol_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion39": {
+              "next": "Orion40",
+              "imagen": "https://i.ytimg.com/vi/6eJtSCpqmtk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA3lo6OO_cQooqqEq9Ta0wcu-250g",
+              "nextImagen": "https://www.nautiljon.com/images/description/00/86/1588431600677_image.jpg",
+              "nombre": "E39 - ¡La flecha de Artemisa!",
+              "idvideo": "https://filemoon.sx/e/ke2xmyfbeid6/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_39_-__La_Flecha_de_Artemisa!_-_Sub_Espa_ol_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion40": {
+              "next": "Orion41",
+              "imagen": "https://www.nautiljon.com/images/description/00/86/1588431600677_image.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/S4zSgT8Y-1c/maxresdefault.jpg",
+              "nombre": "E40 - ¡Hermano mayor y Hermano Menor!",
+              "idvideo": "https://filemoon.sx/e/ldqf655mofpd/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_40_-_Sub_Espa_ol_-__Hermano_Mayor_y_Hermano_Menor!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion41": {
+              "next": "Orion42",
+              "imagen": "https://i.ytimg.com/vi/S4zSgT8Y-1c/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/MJT22qfSyg4/maxresdefault.jpg",
+              "nombre": "E41 - ¡Los jovenes apasionados llegarón!",
+              "idvideo": "https://filemoon.sx/e/nfw9cfzdoagx/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_41_-_Sub_Espa_ol_-__Los_Jovenes_Apasionados_Llegaron!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion42": {
+              "next": "Orion43",
+              "imagen": "https://i.ytimg.com/vi/MJT22qfSyg4/maxresdefault.jpg",
+              "nextImagen": "https://inazumafrontier.files.wordpress.com/2019/08/screenshot_20190808-192715.png?w=1100",
+              "nombre": "E42 - Debajo del pequeño cielo",
+              "idvideo": "https://filemoon.sx/e/kzy7xntjbtqc/Inazuma_Eleven_Orion_no_Kokuin_-_Capitulo_42_-_Sub_Espa_ol_-__Debajo_del_Peque_o_Cielo!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion43": {
+              "next": "Orion44",
+              "imagen": "https://inazumafrontier.files.wordpress.com/2019/08/screenshot_20190808-192715.png?w=1100",
+              "nextImagen": "https://i.ytimg.com/vi/ORFcKY-LnBI/maxresdefault.jpg",
+              "nombre": "E43 - ¡Juguemos aquel Fútbol!",
+              "idvideo": "https://filemoon.sx/e/j2hm6cgi0w4j/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_43_-_Sub_Espa_ol_-__Juguemos_Aquel_Futbol!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion44": {
+              "next": "Orion45",
+              "imagen": "https://i.ytimg.com/vi/ORFcKY-LnBI/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/ZaX53aTKmzs/maxresdefault.jpg",
+              "nombre": "E44 - ¡La Tropa de la Bruja!",
+              "idvideo": "https://filemoon.sx/e/c81ro4m67w4b/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_44_-_Sub_Espa_ol_-__La_Tropa_de_la_Bruja!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion45": {
+              "next": "Orion46",
+              "imagen": "https://i.ytimg.com/vi/ZaX53aTKmzs/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/6zz-0DgUmkk/maxresdefault.jpg",
+              "nombre": "E45 - ¡La ecuación de la manzana toxica!",
+              "idvideo": "https://filemoon.sx/e/rzh1tsijwdxs/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_45_-__La_Ecuacion_de_la_Manzana_Toxica!_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion46": {
+              "next": "Orion47",
+              "imagen": "https://i.ytimg.com/vi/6zz-0DgUmkk/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/4BzoHPTMK_s/maxresdefault.jpg",
+              "nombre": "E46 - ¡RUGE! ¡Último Recurso!",
+              "idvideo": "https://filemoon.sx/e/wg10bxqox0dp/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_46_-_Sub_Espa_ol_-__RUGE!_Ultimo_Recurso_-_HD.mp4",
+              "__collections__": {}
+            },
+            "Orion47": {
+              "next": "Orion48",
+              "imagen": "https://i.ytimg.com/vi/4BzoHPTMK_s/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/1EoDrIvwUFo/maxresdefault.jpg",
+              "nombre": "E47 - Comenzó el día de la batalla final",
+              "idvideo": "https://filemoon.sx/e/n7omdiip8o3l/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_47_-_Sub_Espa_ol_-_Comenz__el_d_a_de_la_batalla_final.mp4",
+              "__collections__": {}
+            },
+            "Orion48": {
+              "next": "Orion49",
+              "imagen": "https://i.ytimg.com/vi/1EoDrIvwUFo/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/UOazHdUjOBw/maxresdefault.jpg",
+              "nombre": "E48 - ¡Todo el mundo conectando sus manos!",
+              "idvideo": "https://filemoon.sx/e/ub1kej5n5699/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_48_-_Sub_Espa_ol_-__Todo_el_mundo_conectando_sus_manos!.mp4",
+              "__collections__": {}
+            },
+            "Orion49": {
+              "imagen": "https://i.ytimg.com/vi/UOazHdUjOBw/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/4K3aW27ulXs/maxresdefault.jpg",
+              "nombre": "E49 - ¡Un mañana más allá del campo!",
+              "next": "Ares01",
+              "idvideo": "https://filemoon.sx/e/zdcpw45fhb5l/Inazuma_Eleven_-_Orion_no_Kokuin_-_Capitulo_49_Final_-_Sub_Espa_ol_-__Un_Ma_ana_mas_all__del_campo!.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Outer": {
+        "logo": "https://drive.google.com/uc?id=1tSK0Qq1EXAFtHV2rks1q2lrkQ0ZwZMwk&export=download",
+        "Sinopsis": "Pequeñas historias que sirven como conexion entre Inazuma Eleven Reloaded e Inazuma Eleven Ares",
+        "sinopsis": "Pequeñas historias que sirven como conexion entre Inazuma Eleven Reloaded e Inazuma Eleven Ares",
+        "fondo": "https://image.tmdb.org/t/p/original/9htqs6t9Sf0x0nNb3XoKOfksBlG.jpg",
+        "__collections__": {
+          "episodes": {
+            "Outer01": {
+              "next": "Outer02",
+              "idvideo": "https://filemoon.sx/e/z02w1m0he7un/y2mate.com_-_Inazuma_Eleven_Outer_Code_Historia_1_Shirou_y_Atsuya_Sub_Espa_ol_HD_1080p.mp4",
+              "imagen": "https://i.ytimg.com/vi/GpDIBL3LaC8/maxresdefault.jpg",
+              "nextImagen": "https://i.pinimg.com/originals/36/23/26/3623266c027f1c62ec46e12352edb80d.jpg",
+              "nombre": "Historia 01 - Shirou y Atsuya",
+              "__collections__": {}
+            },
+            "Outer02": {
+              "next": "Outer03",
+              "idvideo": "https://filemoon.sx/e/z4f6i8z8nqd5/Inazuma_Eleven_Outer_Code_Ep.2__Sub._Espa_ol_.mp4",
+              "imagen": "https://i.pinimg.com/originals/36/23/26/3623266c027f1c62ec46e12352edb80d.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/YT7b1r5poMw/maxresdefault.jpg",
+              "nombre": "Historia 02 - La luz y la oscuridad del Sun Garden",
+              "__collections__": {}
+            },
+            "Outer03": {
+              "next": "Outer04",
+              "idvideo": "https://filemoon.sx/e/xyifx48gyqor/Inazuma_Eleven_Outer_Code_3__Sub._Espa_ol_.mp4",
+              "imagen": "https://i.ytimg.com/vi/YT7b1r5poMw/maxresdefault.jpg",
+              "nextImagen": "https://i.ytimg.com/vi/01W4WnE4wfA/maxresdefault.jpg",
+              "nombre": "Historia 03 - El Nuevo Entrenador de la Academia Teikoku",
+              "__collections__": {}
+            },
+            "Outer04": {
+              "next": "Outer05",
+              "idvideo": "https://filemoon.sx/e/5v1xhknq0dtt/Inazuma_Eleven_Outer_Code_4__Sub._Espa_ol_.mp4",
+              "imagen": "https://i.ytimg.com/vi/01W4WnE4wfA/maxresdefault.jpg",
+              "nextImagen": "https://simkl.in/episodes/11/113391883116fd937a_w.jpg",
+              "nombre": "Historia 04 - No Soy un Dios",
+              "__collections__": {}
+            },
+            "Outer05": {
+              "next": "Outer06",
+              "idvideo": "https://filemoon.sx/e/4zagud4mjgsc/UnH_Inazuma_Eleven_Outer_Code_05_HD_720.mp4",
+              "imagen": "https://simkl.in/episodes/11/113391883116fd937a_w.jpg",
+              "nextImagen": "https://pic-bstarstatic.akamaized.net/ugc/afdabc96d77f7e0692a6cf9e22e0110b9407982c.png",
+              "nombre": "Historia 05 - El Comedor de K",
+              "__collections__": {}
+            },
+            "Outer06": {
+              "next": "Outer01",
+              "idvideo": "https://filemoon.sx/e/kt275mulx9ko/Inazuma_Eleven_Outer_Code_6__Sub._Espa_ol_.mp4",
+              "imagen": "https://pic-bstarstatic.akamaized.net/ugc/afdabc96d77f7e0692a6cf9e22e0110b9407982c.png",
+              "nextImagen": "https://i.ytimg.com/vi/GpDIBL3LaC8/maxresdefault.jpg",
+              "nombre": "Historia 06 - El Festival TsunTsun",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Rayo": {
+        "fondo": "https://www.akibagamers.it/wp-content/uploads/2013/09/inazuma-eleven-3-fuoco-esplosivo-lampo-folgorante-recensione-cover-1620x800.jpg",
+        "logo": "https://drive.google.com/uc?id=1HZHuvQ3_Lqp2NP7tCdMRW7pGiZbxIheb&export=download",
+        "sinopsis": "Después de que el Raimon derrotara a la Academia Alius, se anuncia un torneo llamado Fútbol Frontier Internacional en la que jugarán a nivel mundial contra varios equipos de otros países.",
+        "__collections__": {
+          "episodes": {
+            "Rayo01": {
+              "next": "Rayo02",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/51/13715/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/61/13716/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E68 - ¡Reúnanse, Representantes de Japón!",
+              "idvideo": "https://filemoon.sx/e/9a08z923u79m/068.mp4",
+              "__collections__": {}
+            },
+            "Rayo02": {
+              "next": "Rayo03",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/61/13716/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/81/13718/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E69 - ¡El nacimiento de Inazuma Japón!",
+              "idvideo": "https://filemoon.sx/e/4da9oep1gdux/069.mp4",
+              "__collections__": {}
+            },
+            "Rayo03": {
+              "next": "Rayo04",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/81/13718/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/91/13719/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E70 - ¡El entrenador maldito!",
+              "idvideo": "https://filemoon.sx/e/t7dpt06t0y0d/070.mp4",
+              "__collections__": {}
+            },
+            "Rayo04": {
+              "next": "Rayo05",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/91/13719/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/12/13721/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E71 - ¡Se Levanta el telón! ¡Nuestro desafío al mundo!",
+              "idvideo": "https://filemoon.sx/e/etnstqpl822m/071.mp4",
+              "__collections__": {}
+            },
+            "Rayo05": {
+              "next": "Rayo06",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/12/13721/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/22/13722/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E72 - ¡Supera al Big Waves!",
+              "idvideo": "https://filemoon.sx/e/zfedn4kqgai1/072.mp4",
+              "__collections__": {}
+            },
+            "Rayo06": {
+              "next": "Rayo07",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/22/13722/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://s2.dmcdn.net/v/TUCM11Xk_TtRfK07x/x1080",
+              "nombre": "E73 -  ¡Los Guerreros del viento abrasador! ¡Desert Lion!",
+              "idvideo": "https://filemoon.sx/e/eshtie8mdpms/073.mp4",
+              "__collections__": {}
+            },
+            "Rayo07": {
+              "next": "Rayo08",
+              "imagen": "https://s2.dmcdn.net/v/TUCM11Xk_TtRfK07x/x1080",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/62/13726/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E74 -  ¡El despertar del tigre dormido!",
+              "idvideo": "https://filemoon.sx/e/exo9q40rbjjp/074.mp4",
+              "__collections__": {}
+            },
+            "Rayo08": {
+              "next": "Rayo09",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/62/13726/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/72/13727/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E75 -  ¡Un duelo serio, Endou y Tobitaka!",
+              "idvideo": "https://filemoon.sx/e/omm18yu1vv16/075.mp4",
+              "__collections__": {}
+            },
+            "Rayo09": {
+              "next": "Rayo10",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/72/13727/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/92/13729/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E76 - ¿Reemplazar a los representantes? ¡Los retadores más difíciles!",
+              "idvideo": "https://filemoon.sx/e/ds6zw34xu6bf/076.mp4",
+              "__collections__": {}
+            },
+            "Rayo10": {
+              "next": "Rayo11",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/92/13729/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/13/13731/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E77 - ¿¡El último enfrentamiento!? ¡Kudo contra Hitomiko!",
+              "idvideo": "https://filemoon.sx/e/1rgodpaoksdp/077.mp4",
+              "__collections__": {}
+            },
+            "Rayo11": {
+              "next": "Rayo12",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/13/13731/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/33/13733/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E78 -  ¡La Técnica Especial de Fuyuka!",
+              "idvideo": "https://filemoon.sx/e/1tvuwz6t8k9j/078.mp4",
+              "__collections__": {}
+            },
+            "Rayo12": {
+              "next": "Rayo13",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/33/13733/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/43/13734/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E79 - ¡La decisión de Goenji!",
+              "idvideo": "https://filemoon.sx/e/itm22i19hs1m/079.mp4",
+              "__collections__": {}
+            },
+            "Rayo13": {
+              "next": "Rayo14",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/43/13734/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/63/13736/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E80 -  ¡El último partido!",
+              "idvideo": "https://filemoon.sx/e/qh2464ls0das/080.mp4",
+              "__collections__": {}
+            },
+            "Rayo14": {
+              "next": "Rayo15",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/63/13736/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/73/13737/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E81 - ¡El más poderoso de Asia! ¡Fire Dragon!",
+              "idvideo": "https://filemoon.sx/e/obm0ch12edpu/081.mp4",
+              "__collections__": {}
+            },
+            "Rayo15": {
+              "next": "Rayo16",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/73/13737/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/93/13739/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E82 - ¡Las tácticas perfectas! ¡Perfect Zone Press!",
+              "idvideo": "https://filemoon.sx/e/vlw4wdyeeccs/082.mp4",
+              "__collections__": {}
+            },
+            "Rayo16": {
+              "next": "Rayo17",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/93/13739/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/14/13741/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E83 -  ¡Arriba, Capitán!",
+              "idvideo": "https://filemoon.sx/e/2b82xs0knc1k/083.mp4",
+              "__collections__": {}
+            },
+            "Rayo17": {
+              "next": "Explosivo01",
+              "imagen": "https://im.akimg.tv.rakuten.co.jp/content/73/14/13741/main.jpg?impolicy=variable&width=640&height=360",
+              "nextImagen": "https://im.akimg.tv.rakuten.co.jp/content/73/24/13742/main.jpg?impolicy=variable&width=640&height=360",
+              "nombre": "E84 - ¡Consíguelo! ¡Nuestro boleto al mundo!",
+              "idvideo": "https://filemoon.sx/e/fn6v62kntkv0/084.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "ova": {
+        "__collections__": {
+          "episodes": {
+            "ova01": {
+              "nombre": "OVA 01 - Inazuma Eleven : ¡Hiperdimensional! ¡Un Partido de Ensueño!",
+              "idprovedor": "h7qk7ou0r5jh/SnapSave.io-Inazuma_Eleven__Chou_Jigen_Dream_Match_-_Sub_Espa_ol_HD-_1080p_.mp4",
+              "idvideo": "https://filemoon.sx/e/h7qk7ou0r5jh/SnapSave.io-Inazuma_Eleven__Chou_Jigen_Dream_Match_-_Sub_Espa_ol_HD-_1080p_.mp4",
+              "__collections__": {}
+            },
+            "ova02": {
+              "nombre": "OVA 02 - Inazuma Eleven Reloaded",
+              "idprovedor": "mram6sck4iee/INAZUMA_ELEVEN_RELOADED_-__La_Transformaci_n_del_Futb_l!_-_Sub_Espa_ol_-_HD.mp4",
+              "idvideo": "https://filemoon.sx/e/mram6sck4iee/INAZUMA_ELEVEN_RELOADED_-__La_Transformaci_n_del_Futb_l!_-_Sub_Espa_ol_-_HD.mp4",
+              "__collections__": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,166 @@
+.banner_bg{
+    width: 100%;
+    height: 80px;
+    background-color:transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 999;
+}
+
+.footer_bg{
+    width: 100%;
+    height: 100px;
+    background-color: #272727;
+    padding-top: 47px;
+    padding-bottom: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    background-color: #272727;
+    padding-top: 47px;
+    padding-bottom: 47px;
+}
+
+.container_footer{
+    width: 98%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer_bottom{
+    margin-top: 2px;
+    padding-top: 2px;
+    position: relative;
+}
+
+
+.footer_top{
+    margin-top: 26px;
+    height: 30px;
+    color: white;
+    padding-top: 19px;
+    font-weight: 300;
+    text-align: center;
+    position: relative;
+    border-top: 1px solid hsla(0,0%,100%,.1);
+}
+
+.countback{
+    font-weight: 300;
+    margin: 18px;
+    padding: 10px;
+    background-color: white;
+    height: 95px;
+    font-size: 24px;
+    text-align: center;
+    color: #057c7c;
+    border-radius: 14px;
+}
+
+.countback p{
+    margin-top: 10px;
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.bgCam{
+    background-color: #0cc;
+}
+.logos_footer {
+    justify-content: center;
+    display: flex;
+}
+
+
+  /* Estilos para pantallas pequeñas */
+  @media (max-width: 768px) {
+ 
+  }
+  
+
+.banner_buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: row;
+    margin-left: 40px;
+}
+
+.banner_buttons a {
+    cursor: pointer;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 180px;
+    border: 3px solid #ff3f3a;
+    color: #ff3f3a;
+    font-weight:600;
+    transition: ease-out 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.banner_buttons a:hover{
+    box-shadow: inset 280px 0 0 0 #ff3f3a;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 3px solid #ff3f3a;
+    color: white;
+}
+
+.banner_bg h2{
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.hero_bg{
+    width: 100%;
+    height:900px;
+    background-image: url('../assets/hero_bg.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hero_bg img{
+    width: 72%;
+    margin-top: -16px;
+    margin-left: 3%;
+}
+
+.hero_text{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.hero_text h1{
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.hero_series_grid{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
