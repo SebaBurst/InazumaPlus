@@ -2,7 +2,7 @@
 <h1 align="center">Inazuma Eleven Plus - Anime Streaming Plataform</h1>
 </div>
 
-<img src="https://sebaburst.netlify.app/static/media/inazuma.b124a8cd3c0dd462fb00.png">
+<img src="https://i.imgur.com/D6BbzJY.png">
 
 ## Description
 
@@ -11,7 +11,7 @@
 
 
 ## Technologies
-- React Js
+- React
 - Javascript
 - Firebase
 - Json
@@ -21,8 +21,8 @@
 
 ## Platform features
 - <a>Episode List</a>
-<img src="https://i.imgur.com/Mes03VT.png">
+<img src="https://i.imgur.com/d5P0i3L.png">
 </br>
 
-- <a>Episode viewer</a>
-<img src="https://i.imgur.com/GwBns1r.png">
+- <a>Episode Player</a>
+<img src="https://i.imgur.com/o7v4OuO.png">
