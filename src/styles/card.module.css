@@ -1,50 +1,51 @@
-.card_series{
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
-    border-radius: 10px;
-    background: linear-gradient(60deg, #eeff12, #7cff85);
-    width: 260px;
-    height: 150px;
-    padding: 5px;
-    cursor: pointer;
-
-}
-.card_series:hover{
-    transform: scale(1.1);
-    transition: 0.5s;
-    background: linear-gradient(60deg, #ffc000, #ff3f3a);
+.card_series {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  background: linear-gradient(60deg, #eeff12, #7cff85);
+  width: 260px;
+  height: 150px;
+  padding: 5px;
+  cursor: pointer;
 
 }
 
-.card_series img{
-    width: 260px !important;
-    height: 150px !important;
-    margin-top: 0% !important;
-    margin-left: 0% !important;
-    border: 10px !important;
+.card_series:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+  background: linear-gradient(60deg, #ffc000, #ff3f3a);
+
+}
+
+.card_series img {
+  width: 260px !important;
+  height: 150px !important;
+  margin-top: 0% !important;
+  margin-left: 0% !important;
+  border: 10px !important;
 
 }
 
 
-.card_series_seasons{
-    width: 100%;
-    padding: 5%;
-    height: 100%;
-    cursor: pointer;
+.card_series_seasons {
+  width: 100%;
+  padding: 5%;
+  height: 100%;
+  cursor: pointer;
 
 }
 
-.card_series_seasons:hover{
-    transform: scale(1.1);
-    transition: 0.5s;
+.card_series_seasons:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
 
 }
 
-.card_series_seasons img{
-    width: 100% !important;
-    height: 90% !important;
-    margin-top: 0% !important;
-    margin-left: 0% !important;
-    border-radius: 10px !important;
+.card_series_seasons img {
+  width: 100% !important;
+  height: 90% !important;
+  margin-top: 0% !important;
+  margin-left: 0% !important;
+  border-radius: 10px !important;
 
 }
 
@@ -59,155 +60,195 @@
 
 
 .image_episode {
-    position: relative;
-    width: 400px;
-    height: 227px;
-    user-select: none;
-    border-radius: 10px;
-    cursor: pointer;
-    background: linear-gradient(60deg, #eeff12, #7cff85);
-    padding: 5px;
-    margin-left: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  position: relative;
+  width: 400px;
+  height: 227px;
+  user-select: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background: linear-gradient(60deg, #eeff12, #7cff85);
+  padding: 5px;
+  margin-left: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
 
 }
 
-.image_episode:hover{
-    transition: 0.5s;
-    background: linear-gradient(60deg, #ffc000, #ff3f3a);
+.image_episode:hover {
+  transition: 0.5s;
+  background: linear-gradient(60deg, #ffc000, #ff3f3a);
 }
 
-.image_episode img{
-    width: 100%;
-    height: 227px;
-    border-radius: 5px;
-    user-select: none;
-    object-fit: contain;
+.image_episode img {
+  width: 100%;
+  height: 227px;
+  border-radius: 5px;
+  user-select: none;
+  object-fit: contain;
 }
 
 
 
 .image_episode:hover .hover_overlay {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 0;
-    border-radius: 10px;
-    padding: 5px;
-    left: 0;
-    width: 400px;
-    height: 227px;
-    background-color: rgba(26, 25, 25, 0.452);
-  }
-  
-  .hover_overlay {
-    display: none;
-    flex-direction: column;
-    /* Estilos para el fondo negro con transparencia */
-  }
-  
-  .hover_overlay img {
-    width: 80px; /* Ajusta el tamaño de la imagen de play según tus necesidades */
-    height: 80px;
-  }
-
-
-
-
-
-
-
-
-
-
-  .image_episode_single {
-    position: relative;
-    width: 100%;
-    height: 151px;
-    user-select: none;
-    border-radius: 6px;
-    cursor: pointer;
-    background: linear-gradient(60deg, #eeff12, #7cff85);
-    padding: 5px;
-    margin-left: 10px;
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  border-radius: 10px;
+  padding: 5px;
+  left: 0;
+  width: 400px;
+  height: 227px;
+  background-color: rgba(26, 25, 25, 0.452);
 }
 
-.image_episode_single:hover{
-    transition: 0.5s;
-    background: linear-gradient(60deg, #ffc000, #ff3f3a);
+.hover_overlay {
+  display: none;
+  flex-direction: column;
+  /* Estilos para el fondo negro con transparencia */
 }
 
-.image_episode_single img{
-    width: 100%;
-    height: 100%;
-    border-radius: 6px;
-    user-select: none;
+.hover_overlay img {
+  width: 80px;
+  /* Ajusta el tamaño de la imagen de play según tus necesidades */
+  height: 80px;
 }
 
 
-.title_episode{
-    width: 95%;
-    padding: 2%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
+
+
+
+
+
+
+
+.image_episode_single {
+  position: relative;
+  width: 100%;
+  height: 151px;
+  user-select: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: linear-gradient(60deg, #eeff12, #7cff85);
+  padding: 5px;
+  margin-left: 10px;
+
+}
+
+.image_episode_single:hover {
+  transition: 0.5s;
+  background: linear-gradient(60deg, #ffc000, #ff3f3a);
+}
+
+.image_episode_single img {
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+  user-select: none;
+}
+
+
+.title_episode {
+  width: 95%;
+  padding: 2%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .image_episode_single:hover .hover_overlayEpisode {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 0;
-    border-radius: 6px;
-    padding: 5px;
-    left: 0;
-    width: 96%;
-    height: 151px;
-    background-color: rgba(26, 25, 25, 0.452);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  border-radius: 6px;
+  padding: 5px;
+  left: 0;
+  width: 96%;
+  height: 151px;
+  background-color: rgba(26, 25, 25, 0.452);
+}
+
+.image_episode_single:hover {
+  transform: scale(1.05);
+  transition: 0.5s;
+}
+
+.hover_overlayEpisode {
+  display: none;
+  flex-direction: column;
+  /* Estilos para el fondo negro con transparencia */
+}
+
+.hover_overlayEpisode p {
+  font-family: Noto;
+  color: white;
+  font-weight: 800;
+}
+
+.hover_overlayEpisode img {
+  width: 60px;
+  height: 60px;
+}
+
+.title_episode {
+  color: white;
+  width: 90%;
+  display: -webkit-box;
+  /* Configura el contenedor como un box de tipo flex */
+  -webkit-box-orient: vertical;
+  /* Define la orientación vertical */
+  -webkit-line-clamp: 2;
+  /* Limita el texto a 2 líneas */
+  overflow: hidden;
+  /* Oculta el contenido excedente */
+  text-overflow: ellipsis;
+  /* Muestra puntos suspensivos si el contenido se corta */
+  line-height: 1.5;
+  text-align: center;
+}
+
+.title_episode a {
+  color: white;
+  font-size: 15px;
+}
+
+.title_episode a:hover {
+  color: white;
+}
+
+
+
+
+
+
+@media (max-width: 768px) {
+  .card_series {
+    width: 170px;
+    height: 95px;
   }
 
-  .image_episode_single:hover{
-    transform: scale(1.05);
-    transition: 0.5s;
-  }
-  
-  .hover_overlayEpisode {
-    display: none;
-    flex-direction: column;
-    /* Estilos para el fondo negro con transparencia */
+  .card_series img {
+    width: 170px !important;
+    height: 95px !important;
   }
 
-  .hover_overlayEpisode p{
-    font-family: Noto;
-    color: white;
-    font-weight: 800;
-  }
-  
-  .hover_overlayEpisode img {
-    width: 60px; 
-    height: 60px;
+  .image_episode {
+    width: 380px;
+    height: 210px;
   }
 
-  .title_episode{
-    color: white;
-    width: 90%;
-    display: -webkit-box;              /* Configura el contenedor como un box de tipo flex */
-    -webkit-box-orient: vertical;      /* Define la orientación vertical */
-    -webkit-line-clamp: 2;             /* Limita el texto a 2 líneas */
-    overflow: hidden;                  /* Oculta el contenido excedente */
-    text-overflow: ellipsis;           /* Muestra puntos suspensivos si el contenido se corta */
-    line-height: 1.5;
-    text-align: center;
+  .image_episode img {
+    width: 380px;
+    height: 210px;
   }
 
-  .title_episode a{
-    color: white;
-    font-size: 15px;
+  .image_episode_single{
+    width: 88%;
+    height: 90px;
+    margin-left: -5px;
   }
 
-  .title_episode a:hover{
-    color: white;
-  }
+}

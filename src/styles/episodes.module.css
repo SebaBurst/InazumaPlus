@@ -84,7 +84,7 @@
     margin-top: 6%;
 }
 
-.hero_text a{
+.hero_text a {
     cursor: pointer;
     background-color: #ff3f3a;
     border-radius: 10px;
@@ -92,7 +92,7 @@
     width: 580px;
     border: 3px solid #ff3f3a;
     color: white;
-    font-weight:600;
+    font-weight: 600;
     transition: ease-out 0.3s;
     display: flex;
     justify-content: center;
@@ -103,7 +103,7 @@
     text-align: center;
 }
 
-.hero_text a:hover{
+.hero_text a:hover {
     box-shadow: inset 680px 0 0 0 white;
     cursor: pointer;
     border-radius: 10px;
@@ -117,3 +117,49 @@
     font-weight: 500;
 }
 
+@media (max-width: 768px) {
+    .hero_text a {
+        width: 300px;
+    }
+
+    .hero_text {
+        width: 90%;
+        padding: 10px;
+        margin-top: 38%;
+    }
+
+    .hero_text img {
+        width: 70% !important;
+        margin-left: 14% !important;
+    }
+
+    .hero_text p {
+        color: #dadada;
+        font-size: 1rem;
+        font-weight: 500;
+        background-color: #000000b3;
+        width: 90%;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+    .episodes_grid{
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+    .containerEpisodes h1{
+        font-size: 32px;
+        margin-left: 3%;
+        font-weight: bolder;
+        margin-top: -10%;
+        z-index: 999;
+        margin-bottom: -1px;
+        color: white;
+        background-color: #060606ad;
+        padding: 5px;
+        border-radius: 10px;
+    }
+
+    
+}

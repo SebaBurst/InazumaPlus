@@ -1,5 +1,4 @@
-
-.container_bg{
+.container_bg {
     background: linear-gradient(60deg, #ffc000, #ff3f3a);
     width: 100%;
     height: 85vh;
@@ -8,10 +7,10 @@
     align-items: center;
     flex-direction: column;
 
-    
+
 }
 
-.containergo_bg{
+.containergo_bg {
     background: linear-gradient(30deg, rgb(125, 204, 243) 0%, rgb(0, 184, 238) 36%, rgb(0, 77, 182) 70%, rgb(24, 0, 143) 100%);
     width: 100%;
     height: 80vh;
@@ -19,22 +18,22 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
+
 }
 
-.containerAres_bg{
-    background: linear-gradient(60deg,  #ffc000, #7cff85);
+.containerAres_bg {
+    background: linear-gradient(60deg, #ffc000, #7cff85);
     width: 100%;
     height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
+
 }
 
 
-.containerImage{
+.containerImage {
     width: 100%;
     height: 80vh;
     display: flex;
@@ -47,13 +46,13 @@
     background-repeat: repeat;
 }
 
-.hero_text{
+.hero_text {
     color: white;
     font-size: 18px;
     font-weight: 500;
 }
 
-.hero_text h1{
+.hero_text h1 {
     font-size: 30px;
     font-weight: 800;
     margin-top: 20px;
@@ -62,7 +61,7 @@
 }
 
 
-.season_container{
+.season_container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -72,7 +71,7 @@
     margin-top: 20px;
 }
 
-.season_grid{
+.season_grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
@@ -81,7 +80,7 @@
     width: 60%;
 }
 
-.seasonGo_grid{
+.seasonGo_grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
@@ -93,7 +92,7 @@
 
 
 
-.seasonAres_grid{
+.seasonAres_grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
@@ -103,13 +102,73 @@
 
 }
 
-.season_art{
+.season_art {
     width: 24%;
     height: 100%;
 }
 
-.season_art img{
+.season_art img {
     width: 100%;
     margin-left: -80px;
     object-fit: contain;
+}
+
+
+@media (max-width: 768px) {
+
+    .hero_text {
+        text-align: center;
+        width: 86%;
+    }
+
+    .season_art {
+        display: none;
+    }
+
+    .season_grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        height: 100%;
+        width: 88%;
+    }
+
+    .season_container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        width: 100%;
+        height: 1170px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container_bg {
+        height: 100%;
+    }
+
+    .containerImage {
+        height: 100%;
+    }
+
+
+    .seasonGo_grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+        height: 66%;
+        width: 88%;
+    }
+
+    .containergo_bg {
+        height: 100%;
+    }
+
+    .seasonAres_grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+        height: 105%;
+        width: 88%;
+    }
 }
